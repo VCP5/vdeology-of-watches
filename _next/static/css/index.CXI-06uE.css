@@ -257,3 +257,30 @@ footer span{color:var(--muted)}
   #bands{padding-top:62px}
   #bands:before{left:20px;right:20px}
 }
+
+
+/* Watch Head 3.2 — Lug-to-Lug */
+#head .lug-section{
+  display:grid;
+  grid-template-columns:46px minmax(0,760px);
+  gap:clamp(30px,4vw,70px);
+  max-width:1000px;
+  margin:clamp(90px,10vw,150px) auto 0;
+  padding-top:clamp(58px,6vw,90px);
+  border-top:1px solid #444b53;
+}
+#head .lug-section h3{
+  font-size:clamp(2.1rem,3.4vw,3.8rem);
+  line-height:1.02;
+  margin-bottom:clamp(26px,3vw,46px);
+}
+#head .lug-section p{max-width:720px}
+@media (max-width:760px){
+  #head .lug-section{
+    grid-template-columns:1fr;
+    gap:24px;
+    margin-top:78px;
+    padding-top:56px;
+  }
+  #head .lug-section h3{font-size:clamp(2.05rem,9.5vw,3rem)}
+}
