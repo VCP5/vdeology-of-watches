@@ -232,3 +232,28 @@ footer span{color:var(--muted)}
   }
   .hero,section{scroll-margin-top:96px}
 }
+
+
+/* Editorial chapter hierarchy */
+#bracelets{padding-bottom:clamp(70px,8vw,120px)}
+#bands{
+  border-top:0;
+  padding-top:clamp(54px,6vw,92px);
+  position:relative;
+}
+#bands:before{
+  content:"";
+  position:absolute;
+  top:0;
+  left:clamp(24px,5vw,88px);
+  right:clamp(24px,5vw,88px);
+  height:1px;
+  background:var(--line);
+}
+#bands>.eyebrow{color:var(--accent)}
+@media (max-width:760px){
+  header nav{grid-template-columns:repeat(3,minmax(0,1fr))}
+  #bracelets{padding-bottom:64px}
+  #bands{padding-top:62px}
+  #bands:before{left:20px;right:20px}
+}
