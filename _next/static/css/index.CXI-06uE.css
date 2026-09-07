@@ -284,3 +284,57 @@ footer span{color:var(--muted)}
   }
   #head .lug-section h3{font-size:clamp(2.05rem,9.5vw,3rem)}
 }
+
+
+/* Watch Head 3.2 — IWC profile composition */
+#head .lug-section{
+  grid-template-columns:46px minmax(260px,.72fr) minmax(0,1.18fr);
+  max-width:1320px;
+  align-items:center;
+}
+#head .lug-section>figure{
+  grid-column:2;
+  width:100%;
+  max-width:430px;
+  margin:0 auto;
+  opacity:.84;
+  transform:translateX(-2%);
+}
+#head .lug-section>figure img{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:auto;
+  object-fit:contain;
+  background:transparent;
+  filter:grayscale(100%) contrast(1.12) brightness(1.06);
+  -webkit-mask-image:none;
+  mask-image:none;
+  drop-shadow:none;
+}
+#head .lug-section>figure figcaption{
+  margin-top:14px;
+  padding:0;
+  text-align:center;
+  color:#8e97a2;
+}
+#head .lug-section>div:last-child{
+  grid-column:3;
+  max-width:720px;
+}
+@media (max-width:760px){
+  #head .lug-section{
+    grid-template-columns:1fr;
+    align-items:start;
+  }
+  #head .lug-section>.number,
+  #head .lug-section>figure,
+  #head .lug-section>div:last-child{grid-column:1}
+  #head .lug-section>figure{
+    width:min(82vw,380px);
+    margin:4px auto 10px;
+    transform:none;
+    opacity:.8;
+  }
+  #head .lug-section>figure figcaption{text-align:right}
+}
