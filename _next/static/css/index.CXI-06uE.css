@@ -8,11 +8,11 @@
   --paper-deep:#e7ebee;
   --ink:#0a0c0f;
   --muted:#636b74;
-  --accent:#245cff;
+  --accent:#8a3f2c;
   --line:#bbc2c9;
   --dark:#0b0e12;
-  --serif:Georgia,"Times New Roman",serif;
-  --sans:Arial,Helvetica,sans-serif;
+  --serif:"Times New Roman",Times,serif;
+  --sans:"Times New Roman",Times,serif;
 }
 body{background:var(--paper);color:var(--ink);font:17px/1.72 var(--sans);overflow-x:hidden}
 p{margin:0 0 1.35em}
@@ -122,15 +122,15 @@ article figure img{aspect-ratio:4/5}
 
 /* Dark chapter */
 #head{background:var(--dark);color:#f4f6f7}
-#head .eyebrow,#head aside b{color:#6f91ff}
+#head .eyebrow,#head aside b{color:#bc745d}
 #head aside{border-color:#444b53;max-width:680px;margin:clamp(68px,7vw,110px) 0 clamp(65px,7vw,105px) auto}
 #head article{border-color:#444b53}
-#head article figure img{background:var(--dark);filter:grayscale(35%) contrast(1.12)}
+#head article figure img{background:transparent;filter:grayscale(18%) contrast(1.08)}
 #head>.copy{margin-top:clamp(48px,6vw,90px)}
 
 /* Dictums */
 #dictums{background:#11151b;color:#f4f6f7}
-#dictums .eyebrow{color:#6f91ff}
+#dictums .eyebrow{color:#bc745d}
 #dictums h2{max-width:720px;margin-bottom:clamp(52px,6vw,88px)}
 #dictums blockquote{
   border-color:#424a55;
@@ -138,7 +138,7 @@ article figure img{aspect-ratio:4/5}
   padding:clamp(28px,3vw,44px) 0;
   font:17px/1.55 var(--sans);letter-spacing:0;
 }
-#dictums cite{color:#7f9cff;font-size:10px}
+#dictums cite{color:#d0937c;font-size:10px}
 
 /* Footer */
 footer{background:var(--paper);border-color:var(--line);padding:clamp(50px,6vw,90px) clamp(24px,5vw,88px);font-size:14px}
