@@ -4,7 +4,45 @@
   "issues": [
     {
       "date": "2026-09-07",
-      "items": []
+      "items": [
+        {
+          "number": "01",
+          "title": "Geneva Watch Days signals a renewed search for volume",
+          "summary": "With 71 brands and nearly 400 new watches, the fair pointed to smaller cases, bolder design and renewed interest in more attainable price points—an industry response to shrinking unit sales and younger buyers.",
+          "sources": [
+            {
+              "name": "Luxus Plus",
+              "url": "https://luxus-plus.com/en/geneva-watch-days-2026-the-watch-industry-seeks-a-new-balance/?utm_source=chatgpt.com"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/anthonydemarco/2026/09/02/12-innovative-creative-watches-unveiled-at-geneva-watch-days/?utm_source=chatgpt.com"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Hermès’s watchmaking ambitions meet a perception problem",
+          "summary": "After two decades of investment, Hermès is building real watchmaking scale. Yet its association with Birkin access and weaker resale values shows that technical capability alone does not create collector confidence.",
+          "sources": [
+            {
+              "name": "The Wall Street Journal",
+              "url": "https://www.wsj.com/business/hermes-has-big-watchmaking-ambitions-the-cult-of-the-birkin-is-getting-in-the-way-88ad17f9?utm_source=chatgpt.com"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Watch fairs multiply as the industry looks for new audiences",
+          "summary": "Geneva Watch Days continues to grow, new collector-led fairs are emerging in the US, and MCH Group is preparing Basilia for 2027. Physical shows are becoming places for brands, media and communities to meet—not merely order-taking events.",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/ba3edfef-011d-4413-b34e-99ac3a86d983?utm_source=chatgpt.com"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
