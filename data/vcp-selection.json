@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "number": "01",
+          "title": "WatchPro USA names the people and businesses shaping the American watch market.",
+          "summary": "The 2026 WatchPro USA Awards recognised achievement across retail, brand building, customer experience and industry leadership—not merely new releases. Its winners offer a useful snapshot of the businesses and people setting the pace in a growing American watch market.",
+          "sources": [
+            {
+              "name": "WatchPro USA",
+              "url": "https://usa.watchpro.com/revealed-the-winners-of-watchpro-usa-awards-2026/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Jaeger-LeCoultre brings fifteen complications into one Grande Sonnerie.",
+          "summary": "Jaeger-LeCoultre’s one-off Duomètre Grande Complication à Grande Sonnerie unites a Westminster-style grande sonnerie, minute repeater, perpetual calendar and flying tourbillon in Calibre 182. It is a forceful reminder that extreme mechanical watchmaking remains central to the maison’s identity.",
+          "sources": [
+            {
+              "name": "Jaeger-LeCoultre",
+              "url": "https://www.jaeger-lecoultre.com/ca-fr/watches/high-complication/duometre-grande-complication-a-grande-sonnerie-q603h480"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Panerai marks a century in Florence with an eight-day Luminor.",
+          "summary": "For the centenary of its historic Florence boutique, Panerai revisits a 1960s reference in the limited Luminor Firenze 8 Giorni PAM01794. The release uses the brand’s familiar eight-day hand-wound movement to connect its modern identity with its Florentine origins.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/back-to-the-roots-with-the-panerai-luminor-firenze-8-giorni-pam01794/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "items": [
         {
