@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-12",
+      "items": [
+        {
+          "number": "01",
+          "title": "Swiss watchmakers face a price-and-value reality check.",
+          "summary": "Deloitte’s survey of 6,500 consumers across 13 markets suggests buyers put price-to-value ahead of the industry’s constant flow of novelties. It also highlights a growing mismatch between brands’ focus on mono-brand boutiques and customers’ preference for choice and comparison.",
+          "sources": [
+            {
+              "name": "WatchPro",
+              "url": "https://www.watchpro.com/swiss-watchmakers-are-wrong-about-price/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Bangkok Watch Week signals Southeast Asia’s growing horological pull.",
+          "summary": "The second Siam Paragon Bangkok Watch Week will run September 22–27 with more than 45 participating brands—more than double the first edition. Its growth shows how watch fairs are increasingly reaching toward collector communities beyond the traditional European circuit.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/siam-paragon-bangkok-watch-week-is-back-for-2026"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "A. Lange & Söhne pairs new complications with the world of classic cars.",
+          "summary": "At Hampton Court Palace’s Concours of Elegance, Lange presented the new platinum Triple Split and two 1815 Up/Down special editions. For a small high-watchmaking house, the event shows how cultural settings can frame craft and heritage more effectively than a standalone launch.",
+          "sources": [
+            {
+              "name": "A. Lange & Söhne",
+              "url": "https://press.alange-soehne.com/the-best-of-both-worlds/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-11",
       "items": [
         {
