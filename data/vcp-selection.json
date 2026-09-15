@@ -3,6 +3,82 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "number": "01",
+          "title": "Rolex still leads, but secondary-market attention is spreading.",
+          "summary": "Chrono24’s new report shows Rolex remains the largest brand on its platform, but has lost share in every major price segment since 2023 as Cartier, Patek Philippe, Audemars Piguet and Vacheron Constantin gain ground. The pandemic-era Rolex premium has also largely unwound.",
+          "sources": [
+            {
+              "name": "JCK",
+              "url": "https://www.jckonline.com/editorial-article/rolex-lead-watch-buyers-diversify/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Tudor’s Northflag returns with a sharper identity.",
+          "summary": "The new Northflag continues Tudor’s tool-watch line while adding GMT functionality and a more complete contemporary specification. It shows the brand using historical threads to strengthen its range beyond anniversary-led storytelling.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/the-tudor-northflag"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Ebel’s 115th anniversary makes room for both mechanics and jewellery.",
+          "summary": "Ebel marks 115 years with two limited Sport Classic watches: a Dubois Dépraz automatic chronograph and a gemstone-set quartz model. Together they make a direct case for the brand’s old idea that function and beauty can serve distinct collectors in parallel.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/watches/ebels-115th-anniversary-collection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "items": [
+        {
+          "number": "01",
+          "title": "De Bethune rejects scarcity as a shortcut to desire.",
+          "summary": "New CEO Antoine Pin says the brand will not treat limited production or secondary-market appreciation as its central proposition, instead building demand through art, innovation and long-term product value. It is a clear challenge to the idea that rarity alone creates desirability.",
+          "sources": [
+            {
+              "name": "WatchPro",
+              "url": "https://www.watchpro.com/de-bethune-will-not-engineer-scarcity/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Cartier brings the Roadster back without making it a museum piece.",
+          "summary": "Cartier’s Roadster revival updates the early sports-watch design with the maison’s current quick-change strap system. The point is not simply a reissue, but to bring an overlooked line back into the brand’s present-day product language.",
+          "sources": [
+            {
+              "name": "Haute Time",
+              "url": "https://www.hautetime.com/cartier-roadster-2026-revival/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Citizen turns fifty years of Eco-Drive into two atmospheric ATTESA watches.",
+          "summary": "Citizen marks Eco-Drive’s fiftieth anniversary with Green Flash and Purple Aurora ATTESA limited editions, each capped at 1,500 pieces. Structural colour film and vapour deposition create the light effects, while the F950 movement provides rapid satellite-signal reception.",
+          "sources": [
+            {
+              "name": "Citizen",
+              "url": "https://www.citizenwatch-global.com/news/2026/20260909/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-12",
       "items": [
         {
