@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-16",
+      "items": [
+        {
+          "number": "01",
+          "title": "Rolex reopens the calendar conversation.",
+          "summary": "Rolex revisits the historic Padellone with a new Perpetual model featuring an instantaneous annual calendar and moonphase. It brings a more complicated proposition back into the brand’s dress-watch narrative.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/introducing-rolex-perpetual-padellone"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "TAG Heuer makes the Carrera Sport more wearable.",
+          "summary": "The new Carrera Chronograph Sport shrinks from 44mm to 42mm while retaining the TH20-00 automatic column-wheel chronograph and its 80-hour power reserve. It is a mechanical update shaped as much by daily proportions as by racing credentials.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/2026-tag-heuer-carrera-chronograph-sport-42mm-new-collection-video-review-price/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Complications take the stage in New York.",
+          "summary": "WatchTime New York will bring minute repeaters, perpetual calendars and tourbillons to the foreground this October. The programme shows how technical watchmaking and independent brands are becoming central to the fair’s proposition.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/watchtime/big-complications-watchtime-new-york-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-13",
       "items": [
         {
