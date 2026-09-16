@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-17",
+      "items": [
+        {
+          "number": "01",
+          "title": "Singer Reimagined makes GMT a matter of architecture.",
+          "summary": "Singer’s 1970 DualTrack places dual-time reading inside a slimmer 1970s-inspired integrated-bracelet case. Its manual-winding ST5001 movement uses four barrels to deliver six days of power reserve.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/singer-reimagined-1970-dualtrack/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Louis Moinet turns lunar time into a mechanical landscape.",
+          "summary": "Moon Meteor combines miniature painting, meteorite material and a high-precision moon-phase display in a 12-piece titanium edition. Its automatic LM113 movement drives a lunar cycle claimed accurate to one day in 122 years.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/louis-moinet-moon-meteor-review-price/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Straum gives its integrated-bracelet formula an outdoor life.",
+          "summary": "Norwegian independent Straum takes its integrated-bracelet design into more capable territory with titanium, 100m water resistance and stronger lume. The Expedition retains the automatic La Joux-Perret G100 movement with a 68-hour power reserve.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/titanium-watches/straum-expedition-titanium-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-16",
       "items": [
         {
