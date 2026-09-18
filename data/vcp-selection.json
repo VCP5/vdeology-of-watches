@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-18",
+      "items": [
+        {
+          "number": "01",
+          "title": "Watches and Wonders expands its independent horizon.",
+          "summary": "Watches and Wonders 2027 will expand to 75 exhibiting brands, with Berneron, Singer Reimagined and Porsche Design among the first-time participants. The growth gives independent mechanical watchmaking a more formal and concentrated international stage.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/watches-and-wonders-2027-to-feature-more-new-brands-including-berneron-and-porsche-design"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Glashütte Original finds a mechanical rhythm in the seventies.",
+          "summary": "Glashütte Original’s new The 70s line draws on vinyl, hi-fi and 1970s design, while remaining anchored by the manufacture Calibre 36 automatic movement, its 100-hour power reserve and traditional Saxon finishing.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/luxury-watches/glashuette-original-the-70s-a-mechanical-tribute-to-the-analogue-era"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Neode begins with architecture, not decoration.",
+          "summary": "New independent brand Neode launches its N01 First Edition with a Voutilainen-made case, a deeply reworked manual Chronode movement and an eight-day power reserve. Limited to 25 pieces, it puts structure, proportion and movement architecture ahead of ornament.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/neode-n01-first-edition-pure-silver-new-independent-watch-brand-review-price/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-17",
       "items": [
         {
