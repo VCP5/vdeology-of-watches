@@ -3,6 +3,44 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-19",
+      "items": [
+        {
+          "number": "01",
+          "title": "Studio Underd0g brings a monopusher chronograph to Dubai.",
+          "summary": "Studio Underd0g and Ahmed Seddiqi introduce the 100-piece Chan3ad with Eastern Arabic numerals and a two-layer fish-inspired dial. At its core is the manually wound Sellita SW510 M monopusher chronograph movement with 63 hours of power reserve.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/introducing-studio-underdog-seddiqi"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Parmigiani lets the calibre carry the colour.",
+          "summary": "Parmigiani Fleurier presents the 30-piece Tonda PF Skeleton in rose gold and Milano Blue. The openworked automatic PF777 movement, with twin barrels, finishing and structural depth, becomes the watch’s true visual centre.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/skeleton-watch/parmigiani-fleurier-tonda-pf-skeleton-expressive-color-combination"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Czapek turns a novel into a mechanical dial.",
+          "summary": "Czapek’s Promenade L’Écume des Jours translates Boris Vian’s pianocktail and water-lily imagery into Grand Feu enamel, hand-painted details and the automatic SXH5.1 micro-rotor movement. The edition is limited to 18 pieces.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/inspired-by-a-cult-french-novel-czapek-unveils-the-promenade-ecume-des-jours-hands-on-price/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "items": [
         {
