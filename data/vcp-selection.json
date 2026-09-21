@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-20",
+      "label": "September 20, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Christopher Ward Puts Mechanical Chronographs Back in the Sealander",
+          "summary": "Christopher Ward returns to the mechanical chronograph with the C63 Sealander, ending a gap in non-quartz chronographs since 2020. Its Sellita SW510-1 automatic movement and 56-hour reserve bring complication back to the brand’s core price territory.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/mechanical-resurrection-the-new-christopher-ward-c63-sealander-chronograph/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Tutima Balances Titanium with Gold, and Hand-Wound Tradition",
+          "summary": "Tutima’s new Patria pairs a grade-five titanium case with 18K gold details and its hand-wound Calibre 617. A 60-hour reserve and Glashütte finishing keep the material contrast rooted in the movement.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/hand-wound-movement/tutima-glashutte-patria-gold-titanium-2026"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "FounderFest Makes Independent Watchmaking a Live Stage",
+          "summary": "Time+Tide’s FounderFest brings independent makers, collectors and live music together across New York, London and Melbourne. The associated mechanical watch collaborations turn the release calendar into a more communal, in-person format.",
+          "sources": [
+            {
+              "name": "Monochrome",
+              "url": "https://monochrome-watches.com/introducing-founderfest-time-and-tides-collection-awake-baltic-furlan-marri-beaucroft-echo-neutra-serica-dennison-andrew-mcutchen-new-york-london-melbourne/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-19",
       "items": [
         {
