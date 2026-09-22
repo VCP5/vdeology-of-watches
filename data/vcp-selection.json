@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-22",
+      "label": "September 22, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Baume & Mercier Gives the Clifton a Cooler Mechanical Register",
+          "summary": "Baume & Mercier gives the 39mm Clifton Automatic Date an ice-blue guilloché dial while retaining the poised proportions of a 1950s dress watch. The Baumatic manufacture movement brings a five-day power reserve, making the new tone more than a surface change.",
+          "sources": [
+            {
+              "name": "WorldTempus",
+              "url": "https://en.worldtempus.com/article/new-watches/clifton-turns-ice-blue-baume-and-mercier-83360.html"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Panerai Makes a Proper 42mm Luminor",
+          "summary": "Panerai brings full tool-watch capability to a 42mm Luminor for the first time, retaining 500m water resistance and its signature crown-protection bridge. The three references use the automatic P.980 with a three-day reserve, proving smaller dimensions need not compromise capability.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/42mm-panerai-luminor-pam01710-pam01711-and-pam01714/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Venezianico Turns Lightness into an Italian Mechanical Statement",
+          "summary": "At 48 grams, the Venezianico Redentore Levius reframes a dress watch through a titanium case and hand-turned guilloché dial. Its manual-wind V5000 is designed and made in Italy, turning the release into a concrete step toward a stronger domestic mechanical-watchmaking base.",
+          "sources": [
+            {
+              "name": "Time+Tide",
+              "url": "https://timeandtidewatches.com/venezianico-redentore-levius-introducing/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "label": "September 20, 2026",
       "items": [
