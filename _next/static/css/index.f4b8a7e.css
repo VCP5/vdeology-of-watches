@@ -1799,3 +1799,28 @@ main:not(.archive-page) footer span {
     margin-top: 24px;
   }
 }
+
+
+/* Align the quoted maxim with the C of Clasp Alignment. */
+#clasp-alignment .clasp-heading-text {
+  min-width: 0;
+}
+#clasp-alignment .clasp-heading-text .section-subtitle {
+  margin: clamp(30px, 2.7vw, 44px) 0 0;
+}
+
+/* Use the reliable original GS photograph; softly dissolve its white perimeter. */
+#head .lug-section > .lug-gs-figure {
+  transform: translateX(-12%);
+}
+#head .lug-section > .lug-gs-figure img {
+  display: block;
+  background: transparent;
+  -webkit-mask-image: radial-gradient(ellipse 94% 88% at 50% 50%, #000 52%, rgba(0,0,0,.96) 64%, rgba(0,0,0,.58) 80%, transparent 100%);
+  mask-image: radial-gradient(ellipse 94% 88% at 50% 50%, #000 52%, rgba(0,0,0,.96) 64%, rgba(0,0,0,.58) 80%, transparent 100%);
+}
+@media (max-width: 760px) {
+  #head .lug-section > .lug-gs-figure {
+    transform: none;
+  }
+}
