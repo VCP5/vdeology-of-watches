@@ -81,6 +81,45 @@
       ]
     },
     {
+      "date": "2026-09-21",
+      "label": "September 21, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Bianchet Brings a New Ceramic Contrast to the UltraFino Skeleton",
+          "summary": "Bianchet’s Tonneau UltraFino Ceramic Skeleton pairs deep-blue and white ceramic with an exposed ultra-thin mechanical architecture. The contrast reinforces the growing space for lightweight, sporty haute horlogerie.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/bianchet-tonneau-ultrafino-ceramic-blue-and-white/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Jaeger-LeCoultre Finds Clarity in the Master Control Chronometre",
+          "summary": "Jaeger-LeCoultre refines its classic date watch through a 38mm case, 8.4mm profile and integrated bracelet. Inside, the automatic Calibre 899 provides a 70-hour reserve and the technical foundation for a more restrained daily proposition.",
+          "sources": [
+            {
+              "name": "Time+Tide",
+              "url": "https://timeandtidewatches.com/jaeger-lecoultre-time-and-date-master-control-chronometre-hands-on/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Dublin’s Chronography Gives Independent Watchmaking a New Stage",
+          "summary": "Chronography brings independent and microbrand watchmaking into a focused one-day event for Irish collectors. Its format shows how smaller physical fairs can become meaningful discovery and sales channels beyond the traditional European circuit.",
+          "sources": [
+            {
+              "name": "WatchPro",
+              "url": "https://usa.watchpro.com/the-big-interview-chronography-to-fill-a-gap-in-irelands-watch-event-calendar/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "label": "September 20, 2026",
       "items": [
@@ -272,38 +311,39 @@
       ]
     },
     {
-      "date": "2026-09-13",
+      "date": "2026-09-15",
+      "label": "September 15, 2026",
       "items": [
         {
           "number": "01",
-          "title": "Rolex still leads, but secondary-market attention is spreading.",
-          "summary": "Chrono24’s new report shows Rolex remains the largest brand on its platform, but has lost share in every major price segment since 2023 as Cartier, Patek Philippe, Audemars Piguet and Vacheron Constantin gain ground. The pandemic-era Rolex premium has also largely unwound.",
+          "title": "Serena Williams Reframes the Royal Oak Chronograph",
+          "summary": "Audemars Piguet’s 38mm Royal Oak Selfwinding Chronograph for Serena Williams pairs white ceramic with a pink mother-of-pearl dial. Its integrated, column-wheel Calibre 6401 keeps the 500-piece edition firmly rooted in mechanical watchmaking.",
           "sources": [
             {
-              "name": "JCK",
-              "url": "https://www.jckonline.com/editorial-article/rolex-lead-watch-buyers-diversify/"
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/supernova-serena-williams-gets-her-own-audemars-piguet-royal-oak"
             }
           ]
         },
         {
           "number": "02",
-          "title": "Tudor’s Northflag returns with a sharper identity.",
-          "summary": "The new Northflag continues Tudor’s tool-watch line while adding GMT functionality and a more complete contemporary specification. It shows the brand using historical threads to strengthen its range beyond anniversary-led storytelling.",
+          "title": "Six Omega Stopwatches Preserve a Lost Racing Circuit",
+          "summary": "A fitted set of six Omega professional mechanical stopwatches, engraved LEVIN M.R.C., preserves a direct link to a vanished New Zealand racing circuit. The objects show how mechanical timing equipment once formed part of motorsport’s working infrastructure.",
           "sources": [
             {
-              "name": "Hodinkee",
-              "url": "https://www.hodinkee.com/articles/the-tudor-northflag"
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/six-omega-stopwatches-and-a-lost-nz-racetrack/"
             }
           ]
         },
         {
           "number": "03",
-          "title": "Ebel’s 115th anniversary makes room for both mechanics and jewellery.",
-          "summary": "Ebel marks 115 years with two limited Sport Classic watches: a Dubois Dépraz automatic chronograph and a gemstone-set quartz model. Together they make a direct case for the brand’s old idea that function and beauty can serve distinct collectors in parallel.",
+          "title": "Rolex Turns Four Daytonas into a Seasonal Charity Series",
+          "summary": "Rolex created four unique Cosmograph Daytonas around the seasons, combining precious metals, natural-stone dials and gem setting. Powered by the automatic Calibre 4131, the watches will be auctioned by Phillips to benefit two charitable organisations.",
           "sources": [
             {
               "name": "WatchTime",
-              "url": "https://www.watchtime.com/brands/watches/ebels-115th-anniversary-collection"
+              "url": "https://www.watchtime.com/brands/automatic-watches/rolex-four-seasons-four-unique-daytonas-for-charity-auction"
             }
           ]
         }
@@ -342,6 +382,44 @@
             {
               "name": "Citizen",
               "url": "https://www.citizenwatch-global.com/news/2026/20260909/index.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "items": [
+        {
+          "number": "01",
+          "title": "Rolex still leads, but secondary-market attention is spreading.",
+          "summary": "Chrono24’s new report shows Rolex remains the largest brand on its platform, but has lost share in every major price segment since 2023 as Cartier, Patek Philippe, Audemars Piguet and Vacheron Constantin gain ground. The pandemic-era Rolex premium has also largely unwound.",
+          "sources": [
+            {
+              "name": "JCK",
+              "url": "https://www.jckonline.com/editorial-article/rolex-lead-watch-buyers-diversify/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Tudor’s Northflag returns with a sharper identity.",
+          "summary": "The new Northflag continues Tudor’s tool-watch line while adding GMT functionality and a more complete contemporary specification. It shows the brand using historical threads to strengthen its range beyond anniversary-led storytelling.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/the-tudor-northflag"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Ebel’s 115th anniversary makes room for both mechanics and jewellery.",
+          "summary": "Ebel marks 115 years with two limited Sport Classic watches: a Dubois Dépraz automatic chronograph and a gemstone-set quartz model. Together they make a direct case for the brand’s old idea that function and beauty can serve distinct collectors in parallel.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/watches/ebels-115th-anniversary-collection"
             }
           ]
         }
