@@ -2010,3 +2010,32 @@ main:not(.archive-page) footer span {
     font-size: 10px;
   }
 }
+
+
+/* Mobile-only archive return placement and Lug-to-Lug reading order. */
+@media (max-width: 760px) {
+  .archive-intro {
+    position: relative;
+  }
+  .archive-page .archive-intro .archive-back {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    width: auto;
+    margin: 0;
+    padding: .54rem .68rem;
+    gap: 6px;
+    font-size: 8px;
+    letter-spacing: .055em;
+    z-index: 2;
+  }
+  #head .lug-section > div:last-child {
+    order: 1;
+  }
+  #head .lug-section > .lug-gs-figure {
+    order: 2;
+    width: min(76vw, 350px);
+    margin: 26px auto 0;
+    justify-self: center;
+  }
+}
