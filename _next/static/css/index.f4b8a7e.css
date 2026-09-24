@@ -1877,3 +1877,41 @@ main:not(.archive-page) footer span {
     gap: 14px;
   }
 }
+
+
+/* Final spacing and desktop composition refinements. */
+#clasp-alignment .clasp-heading-text .section-subtitle {
+  margin: clamp(16px, 1.35vw, 22px) 0 0;
+}
+#clasp-alignment .clasp-heading-row {
+  margin-bottom: clamp(40px, 3.5vw, 58px);
+}
+#clasp-alignment .clasp-heading-row + p {
+  margin-top: 0;
+}
+#head .lug-section > .lug-gs-figure {
+  width: min(100%, 590px);
+  max-width: 590px;
+  transform: translateX(-18%);
+}
+#head .lug-heading-row {
+  display: flex !important;
+  align-items: baseline;
+}
+#head .lug-heading-row > .number {
+  display: inline-block;
+  position: static;
+  margin: 0;
+}
+@media (max-width: 760px) {
+  #clasp-alignment .clasp-heading-text .section-subtitle {
+    margin-top: 16px;
+  }
+  #clasp-alignment .clasp-heading-row {
+    margin-bottom: 34px;
+  }
+  #head .lug-section > .lug-gs-figure {
+    width: min(94vw, 500px);
+    transform: none;
+  }
+}
