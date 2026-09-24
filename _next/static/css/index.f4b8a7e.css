@@ -1736,3 +1736,17 @@ main:not(.archive-page) footer span {
     margin-left: auto;
   }
 }
+
+
+/* Final chapter hierarchy and transparent Grand Seiko placement. */
+#head .lug-section > .lug-gs-figure {
+  transform: translateX(-12%);
+}
+#head .lug-section > .lug-gs-figure img {
+  background: transparent;
+}
+@media (max-width: 760px) {
+  #head .lug-section > .lug-gs-figure {
+    transform: none;
+  }
+}
