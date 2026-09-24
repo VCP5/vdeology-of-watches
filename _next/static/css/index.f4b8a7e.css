@@ -1824,3 +1824,56 @@ main:not(.archive-page) footer span {
     transform: none;
   }
 }
+
+
+/* 4.2 is part of the Lug-to-Lug heading; the photograph fades visibly into black. */
+#head .lug-section {
+  grid-template-columns: minmax(260px,.72fr) minmax(0,1.18fr);
+}
+#head .lug-section > .lug-gs-figure {
+  grid-column: 1;
+}
+#head .lug-section > div:last-child {
+  grid-column: 2;
+}
+#head .lug-heading-row {
+  display: flex;
+  align-items: baseline;
+  gap: clamp(18px,2vw,34px);
+}
+#head .lug-heading-row .number {
+  flex: 0 0 auto;
+}
+#head .lug-heading-row h3 {
+  margin-top: 0;
+}
+#head .lug-image-frame {
+  position: relative;
+  overflow: hidden;
+  background: #0b0f12;
+}
+#head .lug-image-frame::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  pointer-events: none;
+  background:
+    linear-gradient(to right, #0b0f12 0%, rgba(11,15,18,.93) 5%, transparent 20%, transparent 80%, rgba(11,15,18,.93) 95%, #0b0f12 100%),
+    linear-gradient(to bottom, #0b0f12 0%, rgba(11,15,18,.9) 6%, transparent 22%, transparent 78%, rgba(11,15,18,.9) 94%, #0b0f12 100%);
+}
+#head .lug-image-frame img {
+  -webkit-mask-image: none;
+  mask-image: none;
+}
+@media (max-width: 760px) {
+  #head .lug-section {
+    grid-template-columns: 1fr;
+  }
+  #head .lug-section > .lug-gs-figure,
+  #head .lug-section > div:last-child {
+    grid-column: 1;
+  }
+  #head .lug-heading-row {
+    gap: 14px;
+  }
+}
