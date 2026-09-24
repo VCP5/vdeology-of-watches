@@ -1915,3 +1915,40 @@ main:not(.archive-page) footer span {
     transform: none;
   }
 }
+
+
+/* The Clasp: restrained brushed-metal chapter field. */
+#clasp-alignment {
+  scroll-margin-top: 96px;
+  color: #111315;
+  background-color: #b8bab9;
+  background-image:
+    linear-gradient(112deg, rgba(255,255,255,.32) 0%, rgba(255,255,255,.08) 28%, rgba(35,39,42,.12) 52%, rgba(255,255,255,.2) 74%, rgba(35,39,42,.1) 100%),
+    repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0, rgba(255,255,255,.035) 1px, rgba(34,38,41,.025) 1px, rgba(34,38,41,.025) 3px);
+}
+#clasp-alignment .eyebrow,
+#clasp-alignment .number,
+#clasp-alignment .section-subtitle {
+  color: #713724;
+}
+#clasp-alignment figcaption {
+  color: #4e5356;
+}
+@media (max-width: 760px) {
+  #clasp-alignment {
+    scroll-margin-top: 104px;
+  }
+  header nav {
+    gap: 1px;
+  }
+  header nav > a,
+  header nav a:first-child {
+    padding-left: 1px;
+    padding-right: 1px;
+    font-size: 5.5px;
+    letter-spacing: 0;
+  }
+  .archive-page main > header nav > a {
+    font-size: 5px;
+  }
+}
