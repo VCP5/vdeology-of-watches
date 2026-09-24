@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-23",
+      "label": "September 23, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Héron Builds a Compact Explorer for Everyday Use",
+          "summary": "Canadian independent Héron introduces the Continental, reworking explorer-watch language through a 37mm hardened-steel case and luminous sandwich dial. A Miyota 9039 automatic movement and beads-of-rice bracelet turn its vintage references into an approachable daily mechanical watch.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/the-brand-new-heron-continental/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "A. Lange & Söhne Brings Two New Watches to the Concours Lawn",
+          "summary": "A. Lange & Söhne presented new versions of the 1815 UP/DOWN and platinum Triple Split at the Concours of Elegance at Hampton Court. By placing complex mechanical watches within classic-car culture, the brand reinforces a shared language of engineering, craft and longevity.",
+          "sources": [
+            {
+              "name": "WorldTempus",
+              "url": "https://en.worldtempus.com/article/new-watches/wilhelm-schmid-where-fine-watchmaking-meets-automotive-excellence-lange-and-sohne-83359.html"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "FounderFest Takes Independent Releases from Event to Global Window",
+          "summary": "FounderFest’s seven independent-watch collaborations entered a 24-hour global ordering window before returning to in-store exclusivity in London, New York and Melbourne. The format connects a physical collector event with limited worldwide access, offering smaller makers an alternative release model.",
+          "sources": [
+            {
+              "name": "Time+Tide",
+              "url": "https://timeandtidewatches.com/founderfest-2026-faq-how-to-buy-the-watches/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "label": "September 22, 2026",
       "items": [
