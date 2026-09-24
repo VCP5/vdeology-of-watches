@@ -1970,3 +1970,13 @@ main:not(.archive-page) footer span {
     rgba(11,15,18,.8) 91%,
     #0b0f12 100%);
 }
+
+
+/* Archive paper: finer, lower-contrast fibre instead of a visible grid. */
+.archive-page {
+  background-image:
+    radial-gradient(ellipse at 18% 8%, rgba(255,250,231,.3), transparent 44%),
+    radial-gradient(ellipse at 86% 94%, rgba(125,83,45,.09), transparent 50%),
+    repeating-linear-gradient(0deg, rgba(83,52,24,.012) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(255,255,255,.025) 0 1px, transparent 1px 4px);
+}
