@@ -1768,3 +1768,34 @@ main:not(.archive-page) footer span {
 #clasp-alignment .clasp-alignment-copy .section-subtitle {
   margin-top: clamp(18px, 1.5vw, 24px);
 }
+
+
+/* 3.1 belongs to the Clasp Alignment title, not the body grid. */
+#clasp-alignment .clasp-alignment-layout {
+  grid-template-columns: minmax(0, 1.12fr) minmax(300px, .88fr);
+}
+#clasp-alignment .clasp-heading-row {
+  display: flex;
+  align-items: baseline;
+  gap: clamp(18px, 2vw, 34px);
+}
+#clasp-alignment .clasp-heading-row .number {
+  flex: 0 0 auto;
+}
+#clasp-alignment .clasp-heading-row h3 {
+  margin: 0;
+}
+#clasp-alignment .clasp-alignment-copy .section-subtitle {
+  margin-top: clamp(30px, 2.7vw, 44px);
+}
+@media (max-width: 760px) {
+  #clasp-alignment .clasp-alignment-layout {
+    grid-template-columns: 1fr;
+  }
+  #clasp-alignment .clasp-heading-row {
+    gap: 14px;
+  }
+  #clasp-alignment .clasp-alignment-copy .section-subtitle {
+    margin-top: 24px;
+  }
+}
