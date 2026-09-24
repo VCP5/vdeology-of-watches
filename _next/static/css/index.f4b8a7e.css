@@ -2055,3 +2055,10 @@ main:not(.archive-page) footer span {
     margin-top: clamp(64px, 17vw, 82px);
   }
 }
+
+
+@media (max-width: 760px) {
+  .archive-page .archive-intro .archive-back {
+    top: 30px;
+  }
+}
