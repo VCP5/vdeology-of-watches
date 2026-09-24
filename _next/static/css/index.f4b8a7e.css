@@ -1952,3 +1952,21 @@ main:not(.archive-page) footer span {
     font-size: 5px;
   }
 }
+
+
+/* Lighter metal and a continuous, line-free photographic feather. */
+#clasp-alignment {
+  background-color: #c9cbca;
+  background-image:
+    linear-gradient(112deg, rgba(255,255,255,.4) 0%, rgba(255,255,255,.13) 30%, rgba(70,74,76,.08) 52%, rgba(255,255,255,.24) 76%, rgba(70,74,76,.06) 100%),
+    repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0, rgba(255,255,255,.025) 1px, rgba(50,54,56,.018) 1px, rgba(50,54,56,.018) 3px);
+}
+#head .lug-image-frame::after {
+  background: radial-gradient(ellipse 76% 72% at 50% 50%,
+    transparent 46%,
+    rgba(11,15,18,.08) 57%,
+    rgba(11,15,18,.24) 67%,
+    rgba(11,15,18,.5) 79%,
+    rgba(11,15,18,.8) 91%,
+    #0b0f12 100%);
+}
