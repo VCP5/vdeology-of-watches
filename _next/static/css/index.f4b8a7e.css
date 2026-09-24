@@ -1640,3 +1640,99 @@ main:not(.archive-page) footer span {
 @media (max-width: 760px) {
   #selection .selection-archive-link { font-size: .84rem; padding: .75rem 1rem; }
 }
+
+
+/* 02.3 — Keep It Centered / Clasp Alignment */
+#clasp-alignment {
+  position: relative;
+  border-top: 1px solid var(--line);
+}
+#clasp-alignment .clasp-alignment-layout {
+  grid-template-columns: 60px minmax(0, 1.12fr) minmax(300px, .88fr);
+  align-items: center;
+  gap: clamp(34px, 5vw, 84px);
+  margin-top: clamp(52px, 6vw, 90px);
+}
+#clasp-alignment .clasp-alignment-copy {
+  max-width: 760px;
+}
+#clasp-alignment h2 {
+  margin-bottom: .3rem;
+}
+#clasp-alignment .section-subtitle {
+  margin: 0 0 clamp(30px, 3.5vw, 52px);
+  color: var(--accent);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(.8rem, 1vw, 1rem);
+  font-weight: 700;
+  letter-spacing: .14em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+#clasp-alignment strong {
+  font-weight: 700;
+}
+#clasp-alignment figure {
+  position: static;
+  align-self: center;
+  width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
+}
+#clasp-alignment figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+  background: transparent;
+}
+#clasp-alignment figcaption {
+  margin-top: 14px;
+  padding: 0;
+  text-align: right;
+}
+
+/* 03.2 — the selected Grand Seiko side profile replaces the moved IWC image. */
+#head .lug-section > .lug-gs-figure {
+  max-width: 500px;
+  opacity: 1;
+  transform: none;
+}
+#head .lug-section > .lug-gs-figure img {
+  filter: none;
+  background: #f7f7f7;
+}
+#head .lug-section > .lug-gs-figure figcaption {
+  text-align: right;
+}
+
+@media (max-width: 760px) {
+  #clasp-alignment .clasp-alignment-layout {
+    grid-template-columns: 1fr;
+    gap: 26px;
+    margin-top: 48px;
+  }
+  #clasp-alignment .clasp-alignment-layout > .number {
+    grid-column: 1;
+  }
+  #clasp-alignment .clasp-alignment-copy {
+    grid-column: 1;
+  }
+  #clasp-alignment h2 {
+    font-size: clamp(3rem, 14vw, 4.6rem);
+  }
+  #clasp-alignment .section-subtitle {
+    margin-bottom: 28px;
+  }
+  #clasp-alignment figure {
+    grid-column: 1;
+    grid-row: auto;
+    width: min(88vw, 520px);
+  }
+  #head .lug-section > .lug-gs-figure {
+    width: min(92vw, 500px);
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
