@@ -1762,3 +1762,9 @@ main:not(.archive-page) footer span {
 #clasp-alignment .clasp-alignment-copy h3 {
   margin-bottom: .3rem;
 }
+
+
+/* Refined 3.1 hierarchy: quoted maxim sits beneath the subsection title. */
+#clasp-alignment .clasp-alignment-copy .section-subtitle {
+  margin-top: clamp(18px, 1.5vw, 24px);
+}
