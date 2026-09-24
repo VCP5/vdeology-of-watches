@@ -1980,3 +1980,33 @@ main:not(.archive-page) footer span {
     repeating-linear-gradient(0deg, rgba(83,52,24,.012) 0 1px, transparent 1px 3px),
     repeating-linear-gradient(90deg, rgba(255,255,255,.025) 0 1px, transparent 1px 4px);
 }
+
+
+/* Archive return control mirrors the homepage archive button without resizing its type. */
+.archive-page .archive-back {
+  display: inline-flex;
+  width: auto;
+  align-items: center;
+  gap: 10px;
+  padding: .72rem 1rem;
+  color: #efd7a5;
+  background: #654329;
+  border: 1px solid rgba(53,32,18,.46);
+  font-size: 11px;
+  line-height: 1;
+  transition: background-color .2s ease, color .2s ease, transform .2s ease;
+}
+.archive-page .archive-back:hover {
+  color: #fff0cd;
+  background: #4c301c;
+  transform: translateY(-1px);
+}
+@media (max-width: 760px) {
+  .archive-page .archive-back {
+    display: inline-flex;
+    width: auto;
+    margin-left: 20px;
+    padding: .68rem .9rem;
+    font-size: 10px;
+  }
+}
