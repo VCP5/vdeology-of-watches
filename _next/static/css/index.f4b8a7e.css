@@ -2062,3 +2062,10 @@ main:not(.archive-page) footer span {
     top: 30px;
   }
 }
+
+
+@media (max-width: 760px) {
+  main:not(.archive-page) footer {
+    background-color: rgba(88,52,29,.92);
+  }
+}
