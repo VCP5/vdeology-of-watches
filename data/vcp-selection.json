@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-26",
+      "label": "September 26, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Patek Philippe Takes the Celestial Further",
+          "summary": "Patek Philippe’s Celestial Ref. 6105G combines a rotating Geneva sky chart with moon phase, sidereal time, date, and the manufacture’s first wristwatch display for sunrise and sunset. Beneath its unconventional 47mm white-gold form is a technically ambitious evolution of Patek’s astronomical-watch lineage.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/hands-on-patek-philippe-6105"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Formex Recasts the Pilot’s Watch in Titanium",
+          "summary": "The AirField Automatic pairs a 40mm hardened Grade 2 titanium case with 150 metres of water resistance and a 65-hour Sellita-based mechanical movement. Its restrained aviation design focuses on legibility, durability, and practical everyday proportions.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/pilots-watches/formex-airfield-40mm-automatic"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "IWC Makes Its Perpetual Calendar Easier to Set",
+          "summary": "The Big Pilot’s Watch Perpetual Calendar ProSet ‘Le Petit Prince’ develops Kurt Klaus’s mechanically programmed calendar with IWC’s newer ProSet adjustment system. It preserves the complication’s synchronized displays while making correction and long-term ownership more approachable.",
+          "sources": [
+            {
+              "name": "Revolution",
+              "url": "https://revolutionwatch.com/up-close-iwc-big-pilots-watch-perpetual-calendar-proset-le-petit-prince/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-23",
       "label": "September 23, 2026",
       "items": [
