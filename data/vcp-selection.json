@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-27",
+      "label": "September 27, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Circula Enlarges the Facet Without Losing Its Edge",
+          "summary": "The independent German maker expands its angular sports watch to 41mm while retaining the sharply faceted steel case, four dial choices and 68-hour automatic movement.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/automatic-watches/circula-facet-2026"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Vintage Character Returns to the Market",
+          "summary": "This week’s selection brings together an Omega Ranchero, a discreet Cartier Santos ‘Ghost,’ an Audemars Piguet perpetual calendar and a ZRC Grands Fonds—four very different expressions of collectible mechanical-watch design.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/an-omega-ranchero-a-cartier-santos-ghost-an-audemars-piguet-perpetual-calendar-and-a-zrc-grands-fron"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Glashütte Original Rebuilds the Seventies for the Analogue Era",
+          "summary": "The new 70s collection combines a compact square integrated-bracelet case with record-, amplifier- and hi-fi-inspired dials, powered by the manufacture’s 100-hour automatic Calibre 36.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/2026-new-glashutte-original-70s-collection-time-and-date-integrated-sports-watch-introducing-price/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-26",
       "label": "September 26, 2026",
       "items": [
