@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-28",
+      "label": "September 28, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Ulysse Nardin Brings Traditional Craft to the Freak’s Radical Mechanics",
+          "summary": "The new Freak One editions combine the crownless, handless UN-240 carousel movement with blue enamel or hand-guilloché decoration. Limited to 99 pieces each, they place traditional métiers d’art over one of modern mechanical watchmaking’s most unconventional architectures.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/ulysse-nardin-freak-one-blue-enamel-and-guilloche/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Jaeger-LeCoultre Makes the Power Reserve Part of the Architecture",
+          "summary": "The Master Control Chronometre Date Power Reserve combines a 39mm integrated-bracelet case with the in-house automatic Calibre 738, COSC certification and a 70-hour reserve. Its balanced dial turns a practical indication into a defining visual element.",
+          "sources": [
+            {
+              "name": "Time+Tide",
+              "url": "https://timeandtidewatches.com/jaeger-lecoultre-master-control-chronometre-date-power-reserve-hands-on/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Chronoswiss Gives Mechanical Digital Time a Softer Palette",
+          "summary": "The Neo Digiteur Pastel Code presents jumping hours, minutes and seconds through three apertures, powered by the hand-wound C.85757 with a proprietary display module. Mint, Sky and Rose editions soften its architectural case without disguising the unconventional mechanics.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/hand-wound-movement/chronoswiss-neo-digiteur-pastel-code"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-27",
       "label": "September 27, 2026",
       "items": [
