@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-29",
+      "label": "September 29, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Louis Vuitton Returns to Its First Watch in Ceramic",
+          "summary": "The Monterey Ceramic revives the pebble-shaped, lugless design of Louis Vuitton’s 1988 watch in 37mm black or green ceramic cases. Its new automatic LFTMA01.02 calibre brings the unconventional form into the permanent collection as a fully mechanical proposition.",
+          "sources": [
+            {
+              "name": "Revolution",
+              "url": "https://revolutionwatch.com/ceramic-charm/"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Breguet Reframes the Marine Through Guilloché and Movement Detail",
+          "summary": "The refreshed Marine 5517 and flyback Chronographe 5527 receive solid-gold, hand-guilloché dials, revised displays and subtle movement updates. Available in gold or titanium, the redesign strengthens the collection’s link to Breguet’s historic marine chronometers.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/fresh-faces-for-the-sporty-breguet-marine-5517-and-chronographe-5527/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Hamilton Takes Its Hand-Wound Field Watch Back Into the Game",
+          "summary": "The 38mm Khaki Field Mechanical Modern Warfare 4 edition pairs a compact black-PVD case with Hamilton’s manually wound H-50 calibre and an 80-hour power reserve. Its restrained gaming references preserve the practical character of the underlying mechanical field watch.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/field-watches/hamilton-khaki-field-mechanical-38mm-modern-warfare-4-edition"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-28",
       "label": "September 28, 2026",
       "items": [
