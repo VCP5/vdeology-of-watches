@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-09-30",
+      "label": "September 30, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Gallet’s Return Tests the Swiss Industry’s Mid-Tier Ambitions",
+          "summary": "Backed by Breitling’s House of Brands, Gallet returns with mechanical watches priced from roughly $2,900 to $6,700, including hand-wound B09-powered models. The relaunch is a broader test of whether established Swiss groups can reclaim territory surrendered to value-focused independents and microbrands.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/gallets-return-heralds-renewed-battle-for-mid-tier-priced-watch-segment"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "NOMOS Takes Its Worldtimer Into the Dark",
+          "summary": "The Club Sport Neomatik Worldtimer Dark pairs a black dial and expanded luminous indications with the manufacture’s automatic world-time architecture. It joins the permanent collection as a more nocturnal interpretation of NOMOS’s practical travel watch.",
+          "sources": [
+            {
+              "name": "NOMOS Glashütte",
+              "url": "https://nomos-glashuette.com/en-ae/club/club-sport-neomatik-worldtimer-dark-793"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Panerai Connects a Florentine Centenary to Eight-Day Mechanics",
+          "summary": "Panerai marks 100 years of its historic Florence boutique with an immersive exhibition and two 44mm Luminor Firenze editions. Both use the manually wound P.5000 calibre with an eight-day reserve, translating the maison’s Florentine and naval history into contemporary mechanical watches.",
+          "sources": [
+            {
+              "name": "Revolution",
+              "url": "https://revolutionwatch.com/panerais-immersive-florentine-experience/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "label": "September 29, 2026",
       "items": [
