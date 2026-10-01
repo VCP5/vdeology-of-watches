@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-01",
+      "label": "October 1, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Ulysse Nardin Marks 25 Years of the Freak With Radical Mechanics and Traditional Craft",
+          "summary": "Ulysse Nardin marks 25 years of the Freak with two 99-piece Freak One editions pairing its rotating movement with enamel and guilloché decoration. Both use the automatic UN-240 manufacture calibre, continuing the Freak’s challenge to conventional dials and hands.",
+          "sources": [
+            {
+              "name": "WatchTime",
+              "url": "https://www.watchtime.com/brands/luxury-watches/ulysse-nardin-freak-one-blue-enamel-guilloche"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Tudor’s North Flag Legacy Returns to the Center of Its Modern Identity",
+          "summary": "Fratello revisits how the North Flag became Tudor’s first watch with an in-house movement in 2015 and considers why the new Northflag again matters strategically. Its distinctive design and COSC and METAS credentials reinforce Tudor’s independent technical identity.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/why-the-north-flag-northflag-is-so-important-for-tudor/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Toronto’s Expanding Watch Fair Shows the Strength of Collector-Led Events",
+          "summary": "The third Toronto Timepiece Show gathered roughly 90 brands, including Grönefeld, Christopher Ward, Baltic and Hanhart. Its growth shows how public regional fairs are becoming important meeting points for mechanical-watch brands, independent makers and collectors.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/toronto-timepiece-show-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "label": "September 30, 2026",
       "items": [
