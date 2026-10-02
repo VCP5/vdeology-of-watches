@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-02",
+      "label": "October 2, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Patek Philippe Opens a New Chapter for the Perpetual Calendar Chronograph",
+          "summary": "The new Ref. 5978P is only the seventh generation of Patek Philippe’s manually wound perpetual calendar chronograph and the first to combine instantaneous calendar and chronograph-minute mechanisms. Its debut edition uses a 42mm platinum case and is limited to 120 pieces.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/the-patek-philippe-reference-5978p-a-brand-new-perpetual-calendar-chronograph-live-pics"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Christopher Ward Revisits Its First In-House Complication",
+          "summary": "The C1 Jump Hour XV marks 15 years since the brand’s first in-house complication with a 39mm case, concentric guilloché dial and JJ01 automatic jump-hour calibre. Its 36-part module stores energy progressively to reduce shock to the escapement at the hour change.",
+          "sources": [
+            {
+              "name": "Time+Tide",
+              "url": "https://timeandtidewatches.com/christopher-ward-c1-jump-hour-xv-introducing/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Bangkok Watch Week Strengthens Southeast Asia’s Watchmaking Platform",
+          "summary": "The second Bangkok Watch Week gathered more than 41 brands and expanded public access through brand forums, vintage watches and mechanical complications. Exhibits from maisons including Bvlgari, Cartier and Blancpain showed the growing regional influence of the event.",
+          "sources": [
+            {
+              "name": "Revolution",
+              "url": "https://revolutionwatch.com/bangkok-watch-week-wraps-up-its-second-edition-at-siam-paragon/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-01",
       "label": "October 1, 2026",
       "items": [
