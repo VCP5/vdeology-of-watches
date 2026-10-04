@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-03",
+      "label": "October 3, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Hamilton Revives the Cushion Watch With Proper Hand-Wound Mechanics",
+          "summary": "Hamilton revives its 1920s cushion watches in compact 30mm and 34mm cases powered by the hand-wound H-42 calibre. Preserving the small proportions and mechanical winding gives the collection more authenticity than a typical vintage-styled revival.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/hamilton-american-classic-cushion-mechanical"}]
+        },
+        {
+          "number": "02",
+          "title": "Longines Sends the Spirit Pilot Collection Into the Blue",
+          "summary": "Longines gives the 39mm Spirit Pilot and Spirit Pilot Flyback matte-blue dials. The Flyback retains a hand-wound, column-wheel flyback chronograph movement, preserving the collection’s legitimate aviation-timing heritage beneath the contemporary colour.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/longines-spirit-pilot-and-spirit-pilot-flyback-with-blue-dials/"}]
+        },
+        {
+          "number": "03",
+          "title": "Cartier Brings the Roadster Back Into the Sports-Watch Conversation",
+          "summary": "After roughly 14 years away, the Cartier Roadster returns in Medium and Large sizes with its tonneau case, automotive dial and signature date magnifier intact. Automatic mechanical movements and 100 metres of water resistance restore it as one of Cartier’s most distinctive sporting designs.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/the-cartier-roadster-is-the-sports-watch-only-cartier-could-make/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-02",
       "label": "October 2, 2026",
       "items": [
