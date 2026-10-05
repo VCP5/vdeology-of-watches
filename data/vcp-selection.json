@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-05",
+      "label": "October 5, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Omega Gives James Bond’s Seamaster a Hero-and-Villain Pairing",
+          "summary": "Omega introduces two Seamaster Diver 300M editions aligned with James Bond and Spectre, adding distinct 007 cues to the collection’s established mechanical-diver architecture. The pairing extends the cinematic narrative from its familiar hero to the opposing side without abandoning the Seamaster’s professional identity.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/omega-seamaster-diver-300m-james-bond-spectre-editions-hands-on/"}]
+        },
+        {
+          "number": "02",
+          "title": "Girard-Perregaux Takes the Laureato Onto the Formula 1 Grid",
+          "summary": "Girard-Perregaux and Williams F1 introduce two 42mm Laureato models with Williams-blue Clous de Paris dials, powered by the automatic GP1800 and GP3300 chronograph calibres. The racing references remain contained within the Laureato’s established architecture rather than overwhelming its mechanical identity.",
+          "sources": [{"name": "WatchTime", "url": "https://www.watchtime.com/brands/chronographs/girard-perregaux-x-williams-f1-the-laureato-goes-racing"}]
+        },
+        {
+          "number": "03",
+          "title": "King Seiko Makes the Modern VANAC Lighter and More Assertive",
+          "summary": "The new King Seiko VANAC uses a titanium case and bracelet to reduce weight while a fresh dial develops the bold geometry of the 1970s original. Rather than directly reproducing a vintage reference, it continues the more experimental side of King Seiko’s mechanical-watch identity.",
+          "sources": [{"name": "Revolution", "url": "https://revolutionwatch.com/king-seiko-vanac-a-new-angle/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-03",
       "label": "October 3, 2026",
       "items": [
