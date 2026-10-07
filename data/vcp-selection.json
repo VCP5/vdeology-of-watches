@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-07",
+      "label": "October 7, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Toronto Timepiece Show Sharpens Its Focus on Independent Watchmaking",
+          "summary": "The 2026 Toronto Timepiece Show returned with ticketed admission, a dedicated artisanal room and greater emphasis on meaningful interaction between watchmakers and collectors. Its second edition reflects the growing importance of regional fairs as platforms for independent mechanical watchmaking.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/event-report-toronto-timepiece-show-2026/"}]
+        },
+        {
+          "number": "02",
+          "title": "New York’s Autumn Auctions Put Independent Watchmaking in the Spotlight",
+          "summary": "Marteau’s tightly curated “Encore” sale brings together a complete steel F.P. Journe set and work by watchmakers including Sylvain Pinaud and Yosuke Sekiguchi, while Antiquorum returns to New York after more than a decade. Together, the sales offer a revealing view of demand across established and independent mechanical watchmaking.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/auctions-marteau-antiquorum-oct-2026"}]
+        },
+        {
+          "number": "03",
+          "title": "Christiaan van der Klaauw Opens the Architecture of Its Mechanical Planetarium",
+          "summary": "The Planetarium Skeleton exposes the movement and world’s smallest mechanical planetarium inside a 40mm platinum case. Limited to six pieces, it turns the Dutch manufacture’s signature astronomical complication into a more architectural and visibly mechanical composition.",
+          "sources": [{"name": "Monochrome Watches", "url": "https://monochrome-watches.com/christiaan-van-der-klaauw-planetarium-skeleton-platinum-review-price/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-06",
       "label": "October 6, 2026",
       "items": [
