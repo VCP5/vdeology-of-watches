@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-08",
+      "label": "October 8, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Nomos Gives the Metro Date Power Reserve the Movement It Needed",
+          "summary": "Nomos updates the Metro Date Power Reserve with the new hand-wound DUW 4701 calibre, finally adding a quick-set date while increasing the power reserve from 42 to 52 hours. The familiar 37mm architecture remains intact and is joined by a new ice-blue dial.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/the-nomos-glashutte-metro-date-power-reserve-gets-a-new-caliber-live-pics"}]
+        },
+        {
+          "number": "02",
+          "title": "Armin Strom Carries Rose Gold Through the Entire Tribute³",
+          "summary": "The Tribute³ Au750 uses 18K rose gold across its case, dial and movement bridges, complemented by three distinct hand-executed guilloché patterns. Its manufacture AMW21 calibre is assembled twice and provides a 100-hour power reserve; production is limited to eight pieces.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/armin-strom-tribute-3-au750/"}]
+        },
+        {
+          "number": "03",
+          "title": "Raymond Weil Marks Fifty Years Without Abandoning Accessibility",
+          "summary": "Raymond Weil’s Sydney anniversary event placed the family-owned company’s latest mechanical watches—including the integrated A.R.T collection and a 50-piece Millesime Chronograph—within the wider story of a brand founded during the quartz crisis. Its continued focus on attainable mechanical watchmaking distinguishes it in an industry moving steadily upmarket.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/raymond-weil-celebrates-fifty-years-in-sydney-events/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-07",
       "label": "October 7, 2026",
       "items": [
