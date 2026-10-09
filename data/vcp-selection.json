@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-09",
+      "label": "October 9, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "F.P. Journe and Chanel Take Control of Ebel",
+          "summary": "A consortium led by Montres Journe SA, with Chanel and former De Bethune CEO Pierre Jacques, will acquire 95% of Ebel for US$66.5 million. The deal places a historic Swiss marque under owners with considerable independent-watchmaking and luxury-sector expertise.",
+          "sources": [{"name": "Monochrome Watches", "url": "https://monochrome-watches.com/fp-journe-chanel-pierre-jacques-acquire-95-percent-of-ebel-from-movado-group/"}]
+        },
+        {
+          "number": "02",
+          "title": "Baume & Mercier Extends the Clifton with Five-Day Mechanics",
+          "summary": "The new Clifton 10870 pairs a compact 39mm steel case with the five-day automatic Baumatic calibre, while the 40mm Clifton 10872 adds a perpetual-calendar module. Both limited editions introduce finely patterned ice-blue dials.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/baume-mercier-clifton-10870-10872/"}]
+        },
+        {
+          "number": "03",
+          "title": "Angelus Returns to Compact, Hand-Wound Chronograph Proportions",
+          "summary": "The Chronographe Tachymètre places Angelus’s hand-wound, column-wheel A5000 calibre inside a 37mm case measuring only 9.25mm thick. Its vintage motoring references, horizontal-clutch architecture and three limited executions reconnect the modern brand with its historic chronographs.",
+          "sources": [{"name": "WatchTime", "url": "https://www.watchtime.com/brands/chronographs/angelus-chronographe-tachymetre"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-08",
       "label": "October 8, 2026",
       "items": [
