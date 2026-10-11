@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-11",
+      "label": "October 11, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Omega Sets Its Two New Bond Seamasters Against Each Other",
+          "summary": "The James Bond and Spectre editions share a 42mm steel Seamaster Diver 300M case, mesh bracelet and automatic mechanical architecture, but divide the familiar design into sharply contrasting blue-and-steel and predominantly black executions.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/sunday-morning-showdown-omega-seamaster-diver-300m-james-bond-vs-spectre-edition/"}]
+        },
+        {
+          "number": "02",
+          "title": "MB&F Gives the SP One a More Precious Frame",
+          "summary": "The SP One Pavée retains the independent maker’s suspended barrel, balance and inclined time display while surrounding the in-house, hand-wound movement with an 18K white-gold case set with 255 diamonds. The decoration follows rather than obscures the watch’s compact 38mm architecture.",
+          "sources": [{"name": "MB&F", "url": "https://www.mbandf.com/machines/mbf-machines/special-projects/sp-one"}]
+        },
+        {
+          "number": "03",
+          "title": "WatchTime New York Prepares a Broad Mechanical Showcase",
+          "summary": "The final preview for WatchTime New York brings together new work from Ming, Blancpain, Ferdinand Berthoud, RGM, Frederique Constant and Chopard. Its highlights range from hand-worked dials to perpetual calendars and a unique minute repeater, reflecting the technical breadth of the October event.",
+          "sources": [{"name": "WatchTime", "url": "https://www.watchtime.com/brands/watchtime/6-must-see-watches-watchtime-new-york-2026"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "label": "October 9, 2026",
       "items": [
