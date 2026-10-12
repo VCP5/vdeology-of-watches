@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-12",
+      "label": "October 12, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Glashütte Original Frames Saxon Mechanics in Meissen Porcelain",
+          "summary": "The Senator Meissen Cherry Blossom pairs a hand-painted porcelain dial with a 40mm red-gold case and automatic Calibre 36-16. Its 100-hour movement and traditional Saxon finishing give the decorative collaboration substantial mechanical depth.",
+          "sources": [{"name": "Watch Advice", "url": "https://www.watchadvice.com.au/83316/glashutte-original-2026-meissen/"}]
+        },
+        {
+          "number": "02",
+          "title": "Toledano & Chan Turns Camouflage Into Case Finishing",
+          "summary": "The titanium B/1 Dazzle carries its geometric pattern continuously across the dial, sculpted case and integrated bracelet through engraving, diamond-dust frosting and brushing. Its compact asymmetrical form contains the automatic Sellita SW100 movement.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/the-toledano-chan-b-1-dazzle-confuses-the-eye-and-steals-the-show/"}]
+        },
+        {
+          "number": "03",
+          "title": "Raymond Weil Builds a World-Traveller for Its Founder’s Centenary",
+          "summary": "The 40mm Freelancer World-Traveller combines a caller GMT, rotating city ring and relief world-map dial with the automatic RW3230 calibre. Limited to 260 pieces, it marks both Raymond Weil’s centenary and the company’s fiftieth anniversary.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/the-raymond-weil-freelancer-world-traveller-a-limited-edition-to-celebrate-the-founders-100th-birthd"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "label": "October 11, 2026",
       "items": [
