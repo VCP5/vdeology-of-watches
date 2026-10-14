@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-14",
+      "label": "October 14, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Vacheron Constantin and Phillips Reveal a Museum-Worthy Vintage Shortlist",
+          "summary": "Thirty-four watches selected from 550 entries will compete across seven categories in the inaugural Concours d’Élégance Horlogère. The shortlist spans chronographs, astronomical complications, chiming watches and rare Métiers d’Art.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/vacheron-constantin-and-phillips-announce-34-finalists-for-the-inaugural-concours-delegance-horloger"}]
+        },
+        {
+          "number": "02",
+          "title": "Mido Gives the Multifort TV Big Date a Chronometer Upgrade",
+          "summary": "Mido equips the Multifort TV Big Date with the COSC-certified automatic Calibre 80, combining an 80-hour power reserve and Nivachron balance with a new blue checkerboard dial. The integrated-bracelet design remains familiar, while the mechanical specification moves upmarket.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/mido-multifort-tv-chronometer-introducing/"}]
+        },
+        {
+          "number": "03",
+          "title": "Bremont Takes the Supermarine Full Ceramic Into Deep Blue",
+          "summary": "Bremont extends its ceramic diving-watch line with a 43mm deep-blue ceramic and titanium case rated to 500 metres. Its new Sellita-based BB64AH automatic calibre increases the power reserve to 56 hours while preserving the collection’s rugged character.",
+          "sources": [{"name": "Watch Advice", "url": "https://www.watchadvice.com.au/83769/bremont-2026-supermarine-ceramic-blue/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "label": "October 12, 2026",
       "items": [
