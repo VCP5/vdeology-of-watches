@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-15",
+      "label": "October 15, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Urwerk Rebuilds the Wandering-Hour Display Around a Quantum Leap",
+          "summary": "The UR-300 Time Quantum replaces Urwerk’s familiar rotating satellite carousel with two fixed linear hour modules arranged as a T-frame. Its automatic UR-30.01 calibre executes a rapid forward jump that completely reconfigures the hour display, accompanied by three running-seconds indicators.",
+          "sources": [{"name": "Urwerk", "url": "https://www.urwerk.com/collections/ur-satellite/ur-300-time-quantum"}]
+        },
+        {
+          "number": "02",
+          "title": "IWC Gives Its Performance Chronograph a Year of the Goat Rotor",
+          "summary": "Limited to 500 pieces, IWC’s titanium Pilot’s Watch Performance Chronograph 41 pairs a gold-coloured dial with a black ceramic bezel. The automatic manufacture Calibre 69385 carries a rotor shaped as three goats, while the date replaces the numeral eight with the Chinese character for goat.",
+          "sources": [{"name": "IWC Schaffhausen", "url": "https://press.iwc.com/iwc-welcomes-the-year-of-the-goat-with-limited-edition-chronograph-en/"}]
+        },
+        {
+          "number": "03",
+          "title": "Hublot Returns the Classic Fusion to Its Original Gold-and-Rubber Formula",
+          "summary": "The 38mm Classic Fusion Tributo revisits Carlo Crocco’s foundational 1980 design in yellow or white gold with an integrated black rubber strap. This mechanical reinterpretation replaces the original quartz architecture with a manufacture automatic movement offering approximately 50 hours of power reserve.",
+          "sources": [{"name": "Hublot", "url": "https://www.hublot.com/en-us/watches/classic-fusion-tributo"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "label": "October 14, 2026",
       "items": [
