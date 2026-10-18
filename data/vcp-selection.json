@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-18",
+      "label": "October 18, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "MB&F Brings the Original Legacy Machine into the EVO Era",
+          "summary": "Fifteen years after the first LM1, the LM1 EVO preserves its independent dual time zones and suspended 14mm balance while adding a smaller 42mm case, FlexRing shock protection and interchangeable rubber straps. The revised hand-wound calibre extends the concept’s theatrical mechanics into a more wearable format.",
+          "sources": [{"name": "MB&F", "url": "https://www.mbandf.com/machines/mbf-machines/legacy-machines/lm1-evo"}]
+        },
+        {
+          "number": "02",
+          "title": "Jaeger-LeCoultre Recasts Its Smallest Calibre as a Sculptural Chain",
+          "summary": "Inspired by a 1955 Duoplan, the Calibre 101 Chain places the world’s smallest rectangular hand-wound mechanical movement inside a pink-gold bangle set with diamonds and black HyCeram. Its 98-part calibre weighs roughly one gram and requires 40 hours to assemble.",
+          "sources": [{"name": "Jaeger-LeCoultre", "url": "https://press.jaeger-lecoultre.com/introducing--the-collectibles-vii/"}]
+        },
+        {
+          "number": "03",
+          "title": "Ressence Takes Its Oil-Filled Display into a Proprietary-Movement Era",
+          "summary": "The Type 10 DN combines Ressence’s oil-filled orbital display with the in-house-designed RW-04 automatic calibre, transmitting power magnetically between its dry and oil-filled chambers. The 41.5mm titanium watch adds dual time, oil-temperature indication and a 60-hour reserve.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/ressence-type-10-dn-dark-knight"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "label": "October 15, 2026",
       "items": [
