@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-20",
+      "label": "October 20, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Renaud Tixier Opens the Monday’s Reinvented Micro-Rotor",
+          "summary": "The Monday Skeleton exposes the independent maison’s patented “dancer” mechanism, which improves micro-rotor winding through a flywheel and propulsion spring. Its hand-finished RVI2025 calibre features 238 inward angles; the blue and green editions are limited to 15 pieces each.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/innovation-on-display-renaud-tixier-introduces-the-monday-skeleton/"}]
+        },
+        {
+          "number": "02",
+          "title": "H. Moser Keeps Its Saquon Barkley Tourbillon Mechanically Focused",
+          "summary": "The Pioneer Cylindrical Tourbillon Skeleton Aventurine pairs a domed blue display with Moser’s openworked HMC 811 calibre and cylindrical-hairspring flying tourbillon. Limited to 97 pieces, the collaboration keeps its sporting references discreet rather than overtly branded.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/h-moser-cie-pioneer-cylindrical-tourbillon-skeleton-aventurine-saquon-barkley-introducing/"}]
+        },
+        {
+          "number": "03",
+          "title": "Frédérique Constant Gives Its Accessible Perpetual Calendar a Burgundy Edition",
+          "summary": "The 40mm steel Manufacture Classic Perpetual Calendar adds a sunray burgundy dial while retaining the in-house FC-776 automatic calibre and its 72-hour power reserve. Limited to 100 pieces, it continues the brand’s unusually attainable approach to a full perpetual calendar.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/fredrique-constant-manufacture-classic-perpetual-calendar-burgundy-limited-edition-live-pics"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-18",
       "label": "October 18, 2026",
       "items": [
