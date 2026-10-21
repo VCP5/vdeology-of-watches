@@ -2168,3 +2168,73 @@ main:not(.archive-page) footer span {
     justify-self: center;
   }
 }
+
+/* Shared navigation hierarchy: primary chapters stay in the bar; subsections use the Selection menu pattern. */
+.section-dropdown .selection-dropdown-menu {
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
+}
+.selection-dropdown-menu a + a { margin-top: 10px; }
+#abstract,
+#framework,
+#bracelets,
+#watch-bracelets,
+#bands,
+#clasp-alignment,
+#head,
+#crystal-room,
+#lug-to-lug,
+#crown,
+#dictums { scroll-margin-top: 104px; }
+
+@media (max-width: 760px) {
+  main > header nav {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1px;
+    min-width: 0;
+  }
+  main > header nav > .selection-dropdown,
+  main > header nav > .section-dropdown {
+    flex: 0 1 auto;
+    min-width: 0;
+    gap: 1px;
+  }
+  main > header nav > .selection-dropdown > a,
+  main.archive-page > header nav > .selection-dropdown > a {
+    display: block;
+    min-width: 0;
+    padding: 0;
+    font-size: 5.5px !important;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  main > header nav > .selection-dropdown > button {
+    flex: 0 0 auto;
+    font-size: 6px !important;
+  }
+  .section-dropdown .selection-dropdown-menu {
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+  }
+  main > header nav > .selection-dropdown:first-child .selection-dropdown-menu {
+    left: 0;
+    right: auto;
+    transform: none;
+  }
+  main > header nav > .section-dropdown:last-of-type .selection-dropdown-menu {
+    left: auto;
+    right: 0;
+    transform: none;
+  }
+  .selection-dropdown-menu { padding: 10px 11px; }
+  .selection-dropdown-menu a,
+  main.archive-page > header .selection-dropdown-menu a {
+    font-size: 8px !important;
+    letter-spacing: .04em;
+  }
+}
