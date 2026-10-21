@@ -2083,3 +2083,86 @@ main:not(.archive-page) footer span {
     color: rgba(247,234,211,.76);
   }
 }
+
+/* Watch Head 4.3 — Crown: established two-column editorial composition. */
+#head .crown-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(300px, .9fr);
+  gap: clamp(42px, 6vw, 96px);
+  align-items: center;
+  max-width: 1320px;
+  margin: clamp(90px, 10vw, 150px) auto 0;
+  padding-top: clamp(58px, 6vw, 90px);
+  border-top: 1px solid #444b53;
+}
+#head .crown-copy {
+  max-width: 760px;
+}
+#head .crown-heading-row {
+  display: flex;
+  align-items: baseline;
+  gap: clamp(18px, 2vw, 34px);
+  margin-bottom: clamp(28px, 3vw, 46px);
+}
+#head .crown-heading-row .number {
+  flex: 0 0 auto;
+  margin: 0;
+}
+#head .crown-heading-row h3 {
+  margin: 0;
+  font-size: clamp(2.1rem, 3.4vw, 3.8rem);
+  line-height: 1.02;
+}
+#head .crown-copy strong {
+  font-weight: 700;
+}
+#head .crown-figure {
+  width: min(100%, 520px);
+  margin: 0;
+  justify-self: end;
+}
+#head .crown-image-frame {
+  position: relative;
+  overflow: hidden;
+  background: #0b0f12;
+}
+#head .crown-image-frame::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  pointer-events: none;
+  background: radial-gradient(ellipse 76% 76% at 50% 50%, transparent 52%, rgba(11,15,18,.09) 64%, rgba(11,15,18,.32) 78%, rgba(11,15,18,.72) 92%, #0b0f12 100%);
+}
+#head .crown-image-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: transparent;
+}
+#head .crown-figure figcaption {
+  margin-top: 14px;
+  padding: 0;
+  text-align: right;
+  color: #8e97a2;
+}
+@media (max-width: 760px) {
+  #head .crown-section {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    margin-top: 78px;
+    padding-top: 56px;
+  }
+  #head .crown-heading-row {
+    gap: 14px;
+    margin-bottom: 26px;
+  }
+  #head .crown-heading-row h3 {
+    font-size: clamp(2.05rem, 9.5vw, 3rem);
+  }
+  #head .crown-figure {
+    width: min(82vw, 420px);
+    margin: 2px auto 0;
+    justify-self: center;
+  }
+}
