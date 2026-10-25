@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-25",
+      "label": "October 25, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "A. Lange & Söhne Opens Its Archive of Modern Icons",
+          "summary": "A rare visit inside the Glashütte manufacture reveals nine important references, including historically significant pieces connected to Walter Lange and Günter Blümlein, offering a focused look at the brand’s modern mechanical legacy.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/nine-incredible-watches-i-saw-inside-the-archives-at-a-lange-and-sohne-hq"}]
+        },
+        {
+          "number": "02",
+          "title": "Van Cleef & Arpels Reveals the Mechanics Behind Its Poetic Complications",
+          "summary": "Marking 20 years of its Poetry of Time philosophy, the maison opens a window onto the unconventional mechanisms behind its animated flowers, celestial displays and butterfly automata—including a 437-component module governed by four patents.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/van-cleef-arpels-celebrates-20-years-of-poetic-complications/"}]
+        },
+        {
+          "number": "03",
+          "title": "Zenith Plans a Major Shift Toward Lower-Volume High Horology",
+          "summary": "LVMH-owned Zenith has begun a restructuring process that could substantially reduce staffing, production and distribution as the historic El Primero manufacture seeks to reposition itself further upmarket by 2029.",
+          "sources": [{"name": "Hodinkee", "url": "https://www.hodinkee.com/articles/lvmh-owned-zenith-brand-to-restructure-in-major-shift-expected-to-cut-jobs-and-production-volumes-in"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "label": "October 20, 2026",
       "items": [
