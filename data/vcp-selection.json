@@ -3,6 +3,30 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-10-28",
+      "label": "October 28, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "A. Lange & Söhne Gives the Datograph Perpetual a Platinum Bracelet",
+          "summary": "To mark 20 years of the Datograph Perpetual, Lange presents a 50-piece platinum edition with a black silver dial, baguette-cut diamond hour markers and the hand-wound L952.1 flyback perpetual-calendar calibre. Its five-row platinum bracelet recalls the jewellery-led watchmaking of the brand’s early revival years.",
+          "sources": [{"name": "Fratello", "url": "https://www.fratellowatches.com/hands-on-with-the-a-lange-sohne-datograph-perpetual-on-a-platinum-bracelet/"}]
+        },
+        {
+          "number": "02",
+          "title": "Favre Leuba Brings Hand Guilloché to Its Chief Tourbillon",
+          "summary": "Favre Leuba adds a blue hand-guilloché dial, made on a nineteenth-century rose engine, to its Chief Tourbillon. The 41mm steel watch houses a 60-hour hand-wound tourbillon movement developed with Jean-François Mojon and is limited to 25 pieces.",
+          "sources": [{"name": "WatchTime", "url": "https://www.watchtime.com/brands/tourbillon-watches/favre-leuba-chief-tourbillon-guilloche"}]
+        },
+        {
+          "number": "03",
+          "title": "Tissot Turns the PRX Skeleton into a Manual-Wind Pocket Watch",
+          "summary": "Tissot and Damian Lillard recast the PRX Skeleton as a 44mm hand-wound model with a removable pocket-watch conversion system. A burgundy movement, leather and rubber straps, and a monogrammed small-seconds hand keep the sporting collaboration mechanically focused.",
+          "sources": [{"name": "Time+Tide", "url": "https://timeandtidewatches.com/its-dame-time-the-new-manual-wind-tissot-prx-skeleton-special-edition/"}]
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "label": "October 25, 2026",
       "items": [
