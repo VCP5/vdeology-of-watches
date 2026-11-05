@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-11-05",
+      "label": "November 5, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Philippe Dufour’s Charity Simplicity Returns to Auction",
+          "summary": "The unique 38mm platinum Simplicity, originally created with an aventurine dial for the Philippe & Elisabeth Dufour Foundation charity auction, returns to the market as the centerpiece of Marteau & Co.’s blue-themed sale. Its absence of small seconds and singular provenance make it one of the most distinctive Dufour watches to appear at auction.",
+          "sources": [
+            {
+              "name": "Marteau & Co.",
+              "url": "https://auctions.marteauandco.com/Nov-2026"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Arnold & Son Refines the Deadbeat Second",
+          "summary": "The DSTB Stop-Seconds pairs Arnold & Son’s jumping deadbeat-seconds display with a stop-seconds mechanism, in two limited editions that sharpen both its mechanical precision and asymmetric visual identity.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://hodinkee.com.au/articles/hands-on-arnold-and-son-dstb-stop-seconds"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "H. Moser Revisits the Heritage Chronograph",
+          "summary": "H. Moser & Cie. returns to its historical language with the 100-piece Heritage Chronograph White Fumé and the 200-piece Heritage Centre Seconds Espresso Fumé, pairing vintage-inspired proportions with modern automatic manufacture movements.",
+          "sources": [
+            {
+              "name": "Worn & Wound",
+              "url": "https://wornandwound.com/moser-introduces-a-pair-of-limited-editions-in-their-heritage-collection/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "label": "October 28, 2026",
       "items": [
