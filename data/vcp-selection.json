@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-11-12",
+      "label": "November 12, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "TAG Heuer Takes the Sundowner Fully Mechanical",
+          "summary": "TAG Heuer and Time+Tide revisit the Aquaracer Sundowner with a sandblasted titanium case, rose-gold accents and the automatic TH31-01 calibre. Limited to 500 pieces across bracelet and rubber-strap versions, it offers an 80-hour power reserve and 300 metres of water resistance.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/time-tide-sundowner-ii"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Panerai Returns the Submersible to Its Marina Militare Roots",
+          "summary": "Panerai introduces two 42mm steel Submersible Marina Militare models: a left-handed Destro and a GMT. Both pair military-derived styling with automatic three-day movements and 500-metre water resistance.",
+          "sources": [
+            {
+              "name": "Monochrome Watches",
+              "url": "https://monochrome-watches.com/panerai-submersible-marina-militare-gmt-pam01758-and-submersible-marina-militare-destro-pam01757-military-dive-watche-video-review-price/"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "MB&F Turns the LM101 Into Three Miniature Enamel Jungles",
+          "summary": "MB&F collaborates with enameller Gabriel Colliard on three platinum LM101 editions depicting a monkey, macaws and a crocodile in cloisonné enamel. Each composition is limited to eight pieces, with a revised hand-wound movement providing a 60-hour power reserve.",
+          "sources": [
+            {
+              "name": "MB&F",
+              "url": "https://www.mbandf.com/machines/mbf-machines/performance-art/mbf-x-gabriel-colliard"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "label": "November 5, 2026",
       "items": [
