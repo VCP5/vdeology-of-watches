@@ -1536,6 +1536,11 @@ main.archive-page footer span {
   border-color: rgba(91,70,45,.35);
 }
 
+#dictums blockquote,
+#dictums cite {
+  font-style: italic;
+}
+
 
 /* Homepage footer uses the same pale-grey surface as its navigation. */
 main:not(.archive-page) footer {
