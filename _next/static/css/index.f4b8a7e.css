@@ -1541,6 +1541,10 @@ main.archive-page footer span {
   font-style: italic;
 }
 
+#dictums cite {
+  text-transform: none;
+}
+
 
 /* Homepage footer uses the same pale-grey surface as its navigation. */
 main:not(.archive-page) footer {
