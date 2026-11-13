@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-11-13",
+      "label": "November 13, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Vacheron Constantin Recasts the Fiftysix in Tonal Grey",
+          "summary": "Vacheron Constantin refreshes its steel Fiftysix Self-Winding and Complete Calendar with layered grey sector dials, revised case finishing and nubuck straps. The Complete Calendar retains the Geneva Seal calibre 2460 QCL/1 with pointer date and moon-phase display.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/intro-vacheron-fiftysix"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Zenith and J.N. Shapiro Rework the Legendary Calibre 135",
+          "summary": "Zenith’s second Double Signed edition pairs its historic hand-wound Calibre 135 with J.N. Shapiro’s California-made guilloché dial and American-inspired damaskeened movement finishing. The 39.15mm rose-gold chronometer is limited to 25 pieces and offers a 72-hour power reserve.",
+          "sources": [
+            {
+              "name": "Zenith",
+              "url": "https://pressroom.zenith-watches.com/strongzenith-124-introducing-the-gfj-calibre-135-double-signed-with-jn-shapiro/?lang=eng"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Fortis Gives the Novonaut N-42 a Full-Lume Transformation",
+          "summary": "Fortis expands its space-tested Novonaut family with three TR chronographs featuring fully luminous LumiCast X1 dials and black, blue or green accents. Each retains the automatic column-wheel Werk 17 movement, a 70-hour power reserve and robust 200-metre construction.",
+          "sources": [
+            {
+              "name": "Fratello",
+              "url": "https://www.fratellowatches.com/fortis-novonaut-n-42-tr-series/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "label": "November 12, 2026",
       "items": [
