@@ -78,6 +78,19 @@ article h2,article h3,.detail h3{font-size:clamp(2.1rem,3.4vw,3.8rem);line-heigh
 #abstract .split>div:first-child{position:relative}
 #abstract .split figure{width:min(72%,430px);margin:58px 0 0 12%}
 #abstract .split figure img{filter:grayscale(35%) contrast(1.1);opacity:.82}
+@media (min-width:1101px){
+  #abstract .split{
+    grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);
+    gap:0;
+    align-items:start;
+  }
+  #abstract .split figure{
+    margin:58px 0 0;
+  }
+  #abstract .split>.lead{
+    margin-top:clamp(150px,9.5vw,190px);
+  }
+}
 .parts{max-width:920px;margin:clamp(70px,8vw,120px) auto}
 .parts li{grid-template-columns:64px 1fr;padding:1.35rem 0;font:clamp(1.25rem,1.8vw,1.75rem)/1.25 var(--serif)}
 .parts small{font:13px/1.5 var(--sans)}
