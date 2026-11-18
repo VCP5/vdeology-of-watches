@@ -669,6 +669,18 @@ footer span{
 /* Watch Head opening — title aligned with the accompanying copy */
 #head>.split{align-items:center}
 #head>.split>h2{margin-block:0}
+@media (min-width:1101px){
+  #head>.split>div{
+    transform:translateY(24px);
+  }
+  #head>aside{
+    max-width:760px;
+    margin:clamp(120px,8vw,160px) auto 0;
+  }
+  #head>aside+article{
+    margin-top:clamp(34px,2.5vw,48px);
+  }
+}
 @media (max-width:760px){
   #head>.split{align-items:start}
   #head>.split>h2{margin-bottom:1.4rem}
