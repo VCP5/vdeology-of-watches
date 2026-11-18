@@ -2104,17 +2104,13 @@ main:not(.archive-page) footer span {
   }
 }
 
-/* Desktop homepage footer matches the Archive footer's rendered brown field. */
+/* Desktop footers share one deeper brown field for stronger contrast. */
 @media (min-width: 761px) {
-  main:not(.archive-page) footer {
-    color: #f7ead3;
+  main:not(.archive-page) footer,
+  main.archive-page footer {
     border-color: rgba(83,48,25,.5);
-    background-color: #8f6b49;
+    background-color: #765235;
     background-image: none;
-  }
-
-  main:not(.archive-page) footer span {
-    color: rgba(247,234,211,.76);
   }
 }
 
