@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-11-23",
+      "label": "November 23, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Phillips Sets a New Asian Watch-Auction Record",
+          "summary": "Phillips’ Hong Kong Watch Auction XXIII achieves HK$601 million (US$77 million), becoming Asia’s most valuable watch auction to date. All 325 lots sold, while 19 timepieces exceeded US$1 million—clear evidence of sustained demand for historically important and independent mechanical watches.",
+          "sources": [
+            {
+              "name": "Phillips",
+              "url": "https://www.phillips.com/press/release/phillips-sets-historic-new-benchmark-with-the-most-valuable-watch-auction-ever-held-in-asia-"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "The Patek Philippe Museum Marks Its 25th Anniversary",
+          "summary": "The Geneva institution celebrates 25 years with a tribute to its founder Philippe Stern and an exhibition reflecting on five decades of the Nautilus. The anniversary reinforces the museum’s importance in preserving both Patek Philippe’s heritage and the broader history of mechanical watchmaking.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/the-patek-philippe-museum-celebrates-25-years"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Zenith and J.N. Shapiro Reinterpret the Legendary Calibre 135",
+          "summary": "Zenith’s second Double Signed release pairs its historic hand-wound Calibre 135 with J.N. Shapiro’s California-made guilloché dial and damascened movement decoration. The rose-gold edition is limited to 25 pieces, uniting Swiss chronometry with contemporary American independent craftsmanship.",
+          "sources": [
+            {
+              "name": "Zenith",
+              "url": "https://pressroom.zenith-watches.com/strongzenith-124-introducing-the-gfj-calibre-135-double-signed-with-jn-shapiro/?lang=eng"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "label": "November 18, 2026",
       "items": [
