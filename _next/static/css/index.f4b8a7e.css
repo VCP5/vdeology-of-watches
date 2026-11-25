@@ -1341,6 +1341,18 @@ main.archive-page>header .selection-dropdown-menu{
   }
   .archive-month-index a span { font-size: 6.5px; }
   .archive-month-index a span + span { margin-top: 2px; }
+  .archive-month-index a:hover,
+  .archive-month-index a:focus,
+  .archive-month-index a:focus-visible {
+    color: inherit;
+    background: transparent;
+    outline: 0;
+  }
+  .archive-month-index a:active {
+    color: #4c301c;
+    background: rgba(118, 82, 53, .08);
+    transition: none;
+  }
   .archive-issue { scroll-margin-top: 74px; }
 }
 
