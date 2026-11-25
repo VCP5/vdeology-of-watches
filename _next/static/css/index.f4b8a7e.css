@@ -1252,6 +1252,13 @@ main.archive-page>header .selection-dropdown-menu{
   }
 }
 
+/* Desktop: center the Padding photograph against the full text column. */
+@media (min-width: 761px) {
+  #bands .padding-detail {
+    align-items: center;
+  }
+}
+
 .selection-list h3 {
   font-weight: 700;
 }
