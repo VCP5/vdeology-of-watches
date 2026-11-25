@@ -1217,6 +1217,11 @@ main.archive-page>header .selection-dropdown-menu{
 
 /* Refined imagery balance and editorial emphasis. */
 @media (min-width: 761px) {
+  .hero figure {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
   #bracelets > article > figure {
     transform: translate(clamp(36px, 4vw, 82px), clamp(70px, 7vw, 120px));
   }
