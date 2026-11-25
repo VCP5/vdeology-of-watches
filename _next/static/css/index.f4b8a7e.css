@@ -1259,6 +1259,63 @@ main.archive-page>header .selection-dropdown-menu{
   }
 }
 
+/* Archive: month index generated from the dated Selection issues. */
+.archive-month-index {
+  position: fixed;
+  z-index: 4;
+  top: 50%;
+  right: clamp(12px, 1.6vw, 28px);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: clamp(82px, 7vw, 106px);
+  padding: 9px 7px;
+  color: #765235;
+  background: rgba(244, 246, 247, .72);
+  border: 1px solid rgba(118, 82, 53, .18);
+  box-shadow: 0 8px 28px rgba(74, 50, 31, .08);
+  -webkit-backdrop-filter: blur(9px);
+  backdrop-filter: blur(9px);
+  transform: translateY(-50%);
+}
+.archive-month-index:empty { display: none; }
+.archive-month-index a {
+  display: block;
+  padding: 7px 4px;
+  color: inherit;
+  border-bottom: 1px solid rgba(118, 82, 53, .14);
+  font: 600 10px/1 Georgia, "Times New Roman", serif;
+  letter-spacing: .045em;
+  text-align: center;
+  white-space: nowrap;
+  transition: color .18s ease, background-color .18s ease;
+}
+.archive-month-index a:last-child { border-bottom: 0; }
+.archive-month-index a:hover,
+.archive-month-index a:focus-visible {
+  color: #4c301c;
+  background: rgba(118, 82, 53, .08);
+  outline: 0;
+}
+.archive-issue { scroll-margin-top: 90px; }
+
+@media (max-width: 760px) {
+  .archive-month-index {
+    right: 2px;
+    width: 46px;
+    padding: 6px 3px;
+    color: #58341d;
+    background: rgba(244, 246, 247, .68);
+    border-color: rgba(88, 52, 29, .16);
+  }
+  .archive-month-index a {
+    padding: 6px 1px;
+    font-size: 6.5px;
+    letter-spacing: 0;
+  }
+  .archive-issue { scroll-margin-top: 74px; }
+}
+
 .selection-list h3 {
   font-weight: 700;
 }
