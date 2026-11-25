@@ -1267,11 +1267,11 @@ main.archive-page>header .selection-dropdown-menu{
   right: clamp(12px, 1.6vw, 28px);
   display: flex;
   flex-direction: column;
-  gap: 2px;
-  width: clamp(82px, 7vw, 106px);
-  padding: 9px 7px;
+  gap: 0;
+  width: clamp(62px, 5vw, 76px);
+  padding: 10px 5px;
   color: #765235;
-  background: rgba(244, 246, 247, .72);
+  background: rgba(244, 246, 247, .42);
   border: 1px solid rgba(118, 82, 53, .18);
   box-shadow: 0 8px 28px rgba(74, 50, 31, .08);
   -webkit-backdrop-filter: blur(9px);
@@ -1281,15 +1281,20 @@ main.archive-page>header .selection-dropdown-menu{
 .archive-month-index:empty { display: none; }
 .archive-month-index a {
   display: block;
-  padding: 7px 4px;
+  padding: 13px 2px;
   color: inherit;
   border-bottom: 1px solid rgba(118, 82, 53, .14);
-  font: 600 10px/1 Georgia, "Times New Roman", serif;
+  font: 600 9px/1.12 Georgia, "Times New Roman", serif;
   letter-spacing: .045em;
   text-align: center;
   white-space: nowrap;
   transition: color .18s ease, background-color .18s ease;
 }
+.archive-month-index a span {
+  display: block;
+  font: inherit;
+}
+.archive-month-index a span + span { margin-top: 3px; }
 .archive-month-index a:last-child { border-bottom: 0; }
 .archive-month-index a:hover,
 .archive-month-index a:focus-visible {
@@ -1302,17 +1307,22 @@ main.archive-page>header .selection-dropdown-menu{
 @media (max-width: 760px) {
   .archive-month-index {
     right: 2px;
-    width: 46px;
-    padding: 6px 3px;
+    width: 31px;
+    padding: 7px 2px;
     color: #58341d;
-    background: rgba(244, 246, 247, .68);
+    background: rgba(244, 246, 247, .36);
     border-color: rgba(88, 52, 29, .16);
   }
   .archive-month-index a {
-    padding: 6px 1px;
+    padding: 11px 0;
     font-size: 6.5px;
+    line-height: 1.1;
     letter-spacing: 0;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
   }
+  .archive-month-index a span { font-size: 6.5px; }
+  .archive-month-index a span + span { margin-top: 2px; }
   .archive-issue { scroll-margin-top: 74px; }
 }
 
