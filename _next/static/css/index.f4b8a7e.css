@@ -2127,6 +2127,14 @@ main:not(.archive-page) footer span {
   background: #4c301c;
   transform: translateY(-1px);
 }
+@media (min-width: 761px) {
+  .archive-page .archive-intro .archive-back {
+    transform: translateX(-50%);
+  }
+  .archive-page .archive-intro .archive-back:hover {
+    transform: translate(-50%, -1px);
+  }
+}
 @media (max-width: 760px) {
   .archive-page .archive-back {
     display: inline-flex;
