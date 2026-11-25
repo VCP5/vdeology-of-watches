@@ -1259,6 +1259,24 @@ main.archive-page>header .selection-dropdown-menu{
   }
 }
 
+/* Section 02 category titles: preserve body-copy color while emphasizing the labels. */
+#bracelets > .cards h3 {
+  color: #765235;
+}
+#bracelets > .cards p {
+  color: var(--ink);
+}
+
+/* Mobile: center the 2.1 Rolex and 2.2.2 Padding figures within their grids. */
+@media (max-width: 760px) {
+  #watch-bracelets > figure,
+  #bands .padding-detail > figure {
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* Archive: month index generated from the dated Selection issues. */
 .archive-month-index {
   position: fixed;
