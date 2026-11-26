@@ -3,18 +3,21 @@
   if (!main) return;
 
   const incomingChapters = [...main.children]
-    .filter(element => element.matches("section[id], footer")).slice(1);
+    .filter(element => element.matches("section[id]")).slice(1);
   const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
   const mobile = matchMedia("(max-width: 760px)");
   let frame = 0;
   let active = null;
   let lift = 0;
+  let reveals = [];
 
   function clear() {
     if (!active) return;
     for (const property of ["translate", "filter", "mask-image", "-webkit-mask-image"]) {
       active.style.removeProperty(property);
     }
+    for (const animation of reveals) animation.cancel();
+    reveals = [];
     active = null;
     lift = 0;
   }
@@ -42,7 +45,25 @@
 
     if (incoming !== active) clear();
     if (!incoming) return;
-    active = incoming;
+    if (!active) {
+      active = incoming;
+      const selector = "h2, h3, h4, p, figure, img, blockquote, .eyebrow";
+      const targets = [...active.querySelectorAll(selector)]
+        .filter(element => !element.parentElement.closest(selector));
+      reveals = targets.map(element => {
+        const distance = mobile.matches ? 12 : 24;
+        const animation = element.animate([
+          { opacity: 0, translate: `0 ${distance}px` },
+          { opacity: getComputedStyle(element).opacity, translate: "none" }
+        ], { duration: 1000, fill: "both", easing: "ease-out" });
+        animation.pause();
+        return animation;
+      });
+    }
+
+    for (const animation of reveals) {
+      animation.currentTime = Math.min(1000, progress * 1250);
+    }
 
     // Lift the actual incoming section across the preceding section, then
     // settle it into normal flow. The leading edge fades over the old chapter.
