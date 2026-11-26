@@ -1,0 +1,14 @@
+@media (max-width: 760px) and (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) and (animation-range: entry 0% entry 35%) {
+    main > section[id]:not(.hero) {
+      animation: mobile-chapter-entry 1ms linear both;
+      animation-timeline: view(block);
+      animation-range: entry 0% entry 35%;
+    }
+  }
+}
+
+@keyframes mobile-chapter-entry {
+  from { opacity: 0.2; }
+  to { opacity: 1; }
+}

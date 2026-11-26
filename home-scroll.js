@@ -6,18 +6,12 @@
     .filter(element => element.matches("section[id]")).slice(1);
   const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
   const mobile = matchMedia("(max-width: 760px)");
-  const edge = document.createElement("div");
-  edge.setAttribute("aria-hidden", "true");
-  edge.style.cssText = "position:fixed;inset:0 0 auto;height:56px;pointer-events:none;z-index:2;opacity:0;will-change:transform,opacity";
-  document.body.append(edge);
   let frame = 0;
   let active = null;
-  let activeCompact = null;
   let lift = 0;
   let reveals = [];
 
   function clear() {
-    edge.style.opacity = "0";
     if (!active) return;
     for (const property of ["translate", "filter", "mask-image", "-webkit-mask-image"]) {
       active.style.removeProperty(property);
@@ -30,7 +24,7 @@
 
   function render() {
     frame = 0;
-    if (reducedMotion.matches) {
+    if (reducedMotion.matches || mobile.matches) {
       clear();
       return;
     }
@@ -49,25 +43,15 @@
       }
     }
 
-    const compact = mobile.matches;
-    if (incoming !== active || (active && activeCompact !== compact)) clear();
+    if (incoming !== active) clear();
     if (!incoming) return;
     if (!active) {
       active = incoming;
-      activeCompact = compact;
       const selector = "h2, h3, h4, p, figure, img, blockquote, .eyebrow";
-      const targets = compact
-        ? [...active.children].filter(element => element instanceof HTMLElement)
-        : [...active.querySelectorAll(selector)]
-          .filter(element => !element.parentElement.closest(selector));
-      if (compact) {
-        const color = getComputedStyle(active).backgroundColor;
-        const surface = color === "rgba(0, 0, 0, 0)"
-          ? (active.id === "selection" ? "#e5d4af" : "#f4f6f7") : color;
-        edge.style.background = `linear-gradient(transparent, ${surface} 51%, transparent)`;
-      }
+      const targets = [...active.querySelectorAll(selector)]
+        .filter(element => !element.parentElement.closest(selector));
       reveals = targets.map(element => {
-        const distance = mobile.matches ? 12 : 24;
+        const distance = 24;
         const animation = element.animate([
           { opacity: 0, translate: `0 ${distance}px` },
           { opacity: getComputedStyle(element).opacity, translate: "none" }
@@ -84,16 +68,8 @@
     // Lift the actual incoming section across the preceding section, then
     // settle it into normal flow. The leading edge fades over the old chapter.
     const overlap = Math.sin(Math.PI * progress) ** 2;
-    lift = overlap * (2 / 3) * Math.min(innerHeight * (compact ? 0.095 : 0.125),
-      compact ? 72.5 : 117.5);
+    lift = overlap * (2 / 3) * Math.min(innerHeight * 0.125, 117.5);
     active.style.translate = `0 -${lift}px`;
-    // On phones the feather is its own thin layer instead of a section-wide mask.
-    if (compact) {
-      const top = start - progress * (start - end) - lift;
-      edge.style.transform = `translate3d(0,${top - 28}px,0)`;
-      edge.style.opacity = String(Math.min(1, overlap * 1.5));
-      return;
-    }
     active.style.filter = `blur(${overlap * 7}px)`;
     const feather = Math.max(1, overlap * 85);
     const mask = `linear-gradient(to bottom, transparent, #000 ${feather}px)`;
@@ -104,12 +80,13 @@
   }
 
   function schedule() {
-    if (!frame) frame = requestAnimationFrame(render);
+    if (!frame && (!mobile.matches || active)) frame = requestAnimationFrame(render);
   }
 
   window.addEventListener("scroll", schedule, { passive: true });
   window.addEventListener("resize", schedule);
   window.addEventListener("pageshow", schedule);
   reducedMotion.addEventListener("change", schedule);
+  mobile.addEventListener("change", schedule);
   schedule();
 })();
