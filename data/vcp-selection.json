@@ -3,6 +3,45 @@
   "issueSize": 3,
   "issues": [
     {
+      "date": "2026-11-26",
+      "label": "November 26, 2026",
+      "items": [
+        {
+          "number": "01",
+          "title": "Brad Pitt and David Fincher Reveal the Watches of Cliff Booth",
+          "summary": "Brad Pitt and David Fincher join Hodinkee’s Talking Watches to explain how they chose watches that fit both the characters and the film’s 1977 setting. The lineup includes a vintage Jaeger-LeCoultre Memovox and a white-gold Explorer 1016 with a white enamel dial, custom-built by Cloister Watch Co.",
+          "sources": [
+            {
+              "name": "Hodinkee",
+              "url": "https://www.hodinkee.com/articles/with-brad-pitt-and-david-fincher"
+            }
+          ]
+        },
+        {
+          "number": "02",
+          "title": "Christie’s Brings the Kronos Collection Back to Hong Kong",
+          "summary": "Christie’s holds the second instalment of Kronos: Titans of Time in Hong Kong on November 26, following the single-owner collection’s spring sale. The auction features important watches from Patek Philippe, F.P. Journe, Audemars Piguet and Rolex.",
+          "sources": [
+            {
+              "name": "Christie’s",
+              "url": "https://www.christies.com/en/auction/auction-31134/overview"
+            }
+          ]
+        },
+        {
+          "number": "03",
+          "title": "Campanola Introduces Its First New Mechanical Calibre in 12 Years",
+          "summary": "Citizen’s Campanola presents two small-seconds watches with lacquer and mother-of-pearl dials depicting different night skies. Both use La Joux-Perret’s Y520 automatic calibre and are set for a limited release in Japan on December 3.",
+          "sources": [
+            {
+              "name": "Citizen",
+              "url": "https://www.citizen.jp/news/2026/20261110.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "label": "November 23, 2026",
       "items": [
