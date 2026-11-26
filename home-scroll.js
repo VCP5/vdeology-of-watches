@@ -68,14 +68,19 @@
     // Lift the actual incoming section across the preceding section, then
     // settle it into normal flow. The leading edge fades over the old chapter.
     const overlap = Math.sin(Math.PI * progress) ** 2;
-    lift = overlap * Math.min(innerHeight * (mobile.matches ? 0.19 : 0.25),
-      mobile.matches ? 145 : 235);
+    const compact = mobile.matches;
+    lift = overlap * Math.min(innerHeight * (compact ? 0.095 : 0.125),
+      compact ? 72.5 : 117.5);
     active.style.translate = `0 -${lift}px`;
-    active.style.filter = `blur(${overlap * (mobile.matches ? 3 : 5)}px)`;
-    const feather = Math.max(1, lift * 0.62);
+    // A fixed feather avoids repainting a full-height mask on each mobile frame.
+    if (compact) active.style.removeProperty("filter");
+    else active.style.filter = `blur(${overlap * 5}px)`;
+    const feather = compact ? 14 : Math.max(1, lift * 0.62);
     const mask = `linear-gradient(to bottom, transparent, #000 ${feather}px)`;
-    active.style.setProperty("mask-image", mask);
-    active.style.setProperty("-webkit-mask-image", mask);
+    if (active.style.getPropertyValue("mask-image") !== mask) {
+      active.style.setProperty("mask-image", mask);
+      active.style.setProperty("-webkit-mask-image", mask);
+    }
   }
 
   function schedule() {
