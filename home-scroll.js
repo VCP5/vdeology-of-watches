@@ -2,8 +2,8 @@
   const main = document.querySelector("main");
   if (!main) return;
 
-  const incomingChapters = [...main.children]
-    .filter(element => element.matches("section[id]")).slice(1);
+  const incomingChapters = [...main.querySelectorAll(":scope > section[id], #watch-bracelets")]
+    .filter(element => !element.matches(".hero"));
   const reducedMotion = matchMedia("(prefers-reduced-motion: reduce)");
   const mobile = matchMedia("(max-width: 760px)");
   let frame = 0;
