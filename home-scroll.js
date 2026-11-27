@@ -70,6 +70,8 @@
     const overlap = Math.sin(Math.PI * progress) ** 2;
     lift = overlap * (2 / 3) * Math.min(innerHeight * 0.125, 117.5);
     active.style.translate = `0 -${lift}px`;
+    // Masking or filtering this article as a whole clips its sticky photo.
+    if (active.id === "watch-bracelets") return;
     active.style.filter = `blur(${overlap * 7}px)`;
     const feather = Math.max(1, overlap * 85);
     const mask = `linear-gradient(to bottom, transparent, #000 ${feather}px)`;
