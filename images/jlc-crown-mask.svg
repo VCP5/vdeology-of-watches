@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="680" viewBox="0 0 680 680">
+  <defs>
+    <filter id="soft"><feGaussianBlur stdDeviation="1.1"/></filter>
+    <linearGradient id="fade" x2="0" y2="1">
+      <stop stop-color="black"/>
+      <stop offset=".075" stop-color="white"/>
+      <stop offset=".925" stop-color="white"/>
+      <stop offset="1" stop-color="black"/>
+    </linearGradient>
+    <mask id="ends"><rect width="680" height="680" fill="url(#fade)"/></mask>
+  </defs>
+  <g mask="url(#ends)">
+    <path fill="white" filter="url(#soft)"
+      d="M422 -8 H503 Q462 14 427 48 L367 109 Q363 128 354 123
+         Q340 149 337 171 L345 171 Q350 176 352 204 L356 216
+         Q359 349 355 472 L349 484 L345 508 H337 Q341 530 352 545
+         Q356 538 363 554 L361 557 Q422 600 474 644 Q513 674 563 688
+         H436 Q388 660 366 635 Q324 610 320 569 Q313 554 306 540
+         L295 540 L286 530 L278 527 Q271 463 270 352 Q272 240 276 160
+         L293 139 L310 137 Q315 119 320 106 Q308 90 336 60 L358 42
+         Q359 34 368 35 Z"/>
+  </g>
+</svg>
