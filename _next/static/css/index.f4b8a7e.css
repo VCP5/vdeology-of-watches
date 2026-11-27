@@ -1993,7 +1993,7 @@ main:not(.archive-page) footer span {
   overflow: hidden;
   background: transparent;
 }
-#head .lug-image-frame img {
+#head .lug-section .lug-image-frame img {
   -webkit-mask: url("../../../images/grand-seiko-lug-mask.svg") center / 100% 100% no-repeat;
   mask: url("../../../images/grand-seiko-lug-mask.svg") center / 100% 100% no-repeat;
 }
