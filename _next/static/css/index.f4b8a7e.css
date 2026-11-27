@@ -2300,12 +2300,12 @@ main:not(.archive-page) footer span {
     margin-top: 28px;
   }
   #head #crown .crown-image-frame img {
-    -webkit-mask-image: url("../../../images/jlc-crown-mask-mobile.svg");
-    mask-image: url("../../../images/jlc-crown-mask-mobile.svg");
+    -webkit-mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=2");
+    mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=2");
   }
   #head #lug-to-lug .lug-image-frame img {
-    -webkit-mask-image: url("../../../images/grand-seiko-lug-mask-mobile.svg");
-    mask-image: url("../../../images/grand-seiko-lug-mask-mobile.svg");
+    -webkit-mask-image: url("../../../images/grand-seiko-lug-mask-mobile.svg?v=2");
+    mask-image: url("../../../images/grand-seiko-lug-mask-mobile.svg?v=2");
   }
   #head .crown-section {
     grid-template-columns: 1fr;

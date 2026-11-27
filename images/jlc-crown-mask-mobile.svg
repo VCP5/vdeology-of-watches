@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="680" viewBox="0 0 680 680">
   <defs>
-    <filter id="contour"><feGaussianBlur stdDeviation="1.6"/></filter>
-    <linearGradient id="fade">
-      <stop offset="0" stop-color="black"/>
+    <filter id="soft"><feGaussianBlur stdDeviation="0.5"/></filter>
+    <linearGradient id="fade" x2="0" y2="1">
+      <stop stop-color="black"/>
       <stop offset=".04" stop-color="white"/>
       <stop offset=".96" stop-color="white"/>
       <stop offset="1" stop-color="black"/>
     </linearGradient>
-    <mask id="ends"><rect width="1120" height="800" fill="url(#fade)"/></mask>
+    <mask id="ends"><rect width="680" height="680" fill="url(#fade)"/></mask>
   </defs>
   <g mask="url(#ends)">
-    <path fill="white" filter="url(#contour)"
-      d="M-12 455 L64 421 Q92 382 197 333 L211 303 L260 277
-         Q276 259 301 247 C389 161 706 157 818 240
-         Q836 253 850 278 L903 303 L918 333 Q1029 381 1060 422 L1132 451
-         V590 L1054 560 Q1043 555 1047 526 Q1032 539 1020 532
-         Q964 499 920 469 Q910 476 881 472 L778 467 Q718 501 594 504
-         Q579 520 552 515 Q529 514 517 500 Q438 505 369 480 L338 466
-         L204 471 Q189 469 181 463 Q126 506 88 535 Q77 547 64 530
-         L62 550 L-12 592 Z"/>
+    <path fill="white" filter="url(#soft)"
+      d="M422 -8 H503 Q462 14 427 48 L367 109 Q363 128 354 123
+         Q340 149 337 171 L345 171 Q350 176 352 204 L356 216
+         Q359 349 355 472 L349 484 L345 508 H337 Q341 530 352 545
+         Q356 538 363 554 L361 557 Q422 600 474 644 Q513 674 563 688
+         H436 Q388 660 366 635 Q324 610 320 569 Q313 554 306 540
+         L295 540 L286 530 L278 527 Q271 463 270 352 Q272 240 276 160
+         L293 139 L310 137 Q315 119 320 106 Q308 90 336 60 L358 42
+         Q359 34 368 35 Z"/>
   </g>
 </svg>
