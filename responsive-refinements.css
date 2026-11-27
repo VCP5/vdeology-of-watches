@@ -1,8 +1,12 @@
 @media (min-width: 761px) {
   #head .hand-length-section .crown-figure {
-    width: min(585px, calc(100% + 2 * (clamp(24px, 5vw, 88px) - 12px)), calc(100% + 2 * (clamp(42px, 4.5vw, 76px) - 12px)));
+    --column-gap: clamp(42px, 4.5vw, 76px);
+    --section-inset: clamp(24px, 5vw, 88px);
+    --left-edge: max(var(--section-inset), calc((100vw - 1420px) / 2));
+    width: calc(.8 * min(585px, calc(100% + 2 * (var(--section-inset) - 12px)), calc(100% + 2 * (var(--column-gap) - 12px))));
     max-width: none;
     justify-self: center;
+    transform: translateX(calc((var(--column-gap) - var(--left-edge)) / 2));
   }
 }
 
