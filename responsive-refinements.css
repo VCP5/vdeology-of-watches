@@ -1,9 +1,7 @@
 @media (min-width: 761px) {
-  #head .hand-length-section {
-    grid-template-columns: minmax(0, 62%) minmax(0, 1fr);
-  }
   #head .hand-length-section .crown-figure {
-    width: min(100%, 833px);
+    width: min(585px, calc(100% + 2 * (clamp(24px, 5vw, 88px) - 12px)), calc(100% + 2 * (clamp(42px, 4.5vw, 76px) - 12px)));
+    max-width: none;
     justify-self: center;
   }
 }
