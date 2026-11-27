@@ -1848,6 +1848,7 @@ main:not(.archive-page) footer span {
 }
 #head .lug-section > .lug-gs-figure figcaption {
   text-align: right;
+  margin-top: calc(7px - 9.4%);
 }
 
 @media (max-width: 760px) {
@@ -2300,8 +2301,8 @@ main:not(.archive-page) footer span {
     margin-top: 28px;
   }
   #head #crown .crown-image-frame img {
-    -webkit-mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=2");
-    mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=2");
+    -webkit-mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=3");
+    mask-image: url("../../../images/jlc-crown-mask-mobile.svg?v=3");
   }
   #head #lug-to-lug .lug-image-frame img {
     -webkit-mask-image: url("../../../images/grand-seiko-lug-mask-mobile.svg?v=2");

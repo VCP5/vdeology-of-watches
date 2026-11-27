@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="680" viewBox="0 0 680 680">
   <defs>
-    <filter id="soft"><feGaussianBlur stdDeviation="0.5"/></filter>
+    <filter id="soft">
+      <feMorphology operator="erode" radius="2"/>
+      <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
     <linearGradient id="fade" x2="0" y2="1">
       <stop stop-color="black"/>
       <stop offset=".04" stop-color="white"/>
