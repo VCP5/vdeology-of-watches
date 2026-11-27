@@ -1,0 +1,18 @@
+@media (min-width: 761px) {
+  #head .hand-length-section {
+    grid-template-columns: minmax(0, 62%) minmax(0, 1fr);
+  }
+  #head .hand-length-section .crown-figure {
+    width: min(100%, 833px);
+    justify-self: center;
+  }
+}
+
+@media (max-width: 760px) {
+  main > header nav .selection-dropdown[data-mobile-menu] > .selection-dropdown-menu {
+    display: none;
+  }
+  main > header nav .selection-dropdown[data-mobile-menu="open"] > .selection-dropdown-menu {
+    display: block;
+  }
+}
