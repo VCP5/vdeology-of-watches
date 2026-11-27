@@ -2333,9 +2333,13 @@ main:not(.archive-page) footer span {
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: auto;
   background: transparent;
   -webkit-mask: url("../../../images/breguet-7637-mask.svg") center / 100% 100% no-repeat;
   mask: url("../../../images/breguet-7637-mask.svg") center / 100% 100% no-repeat;
+}
+#head .hand-length-section .crown-figure figcaption {
+  margin-top: 6%;
 }
 @media (max-width: 760px) {
   #head .hand-length-section {
