@@ -2317,6 +2317,36 @@ main:not(.archive-page) footer span {
   }
 }
 
+#head .hand-length-section {
+  grid-template-columns: minmax(340px, .82fr) minmax(0, 1.38fr);
+  grid-template-areas: "image text";
+  scroll-margin-top: 118px;
+}
+#head .hand-length-section .crown-copy {
+  grid-area: text;
+}
+#head .hand-length-section .crown-figure {
+  grid-area: image;
+  justify-self: start;
+}
+#head .hand-length-section img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: transparent;
+  -webkit-mask: url("../../../images/breguet-7637-mask.svg") center / 100% 100% no-repeat;
+  mask: url("../../../images/breguet-7637-mask.svg") center / 100% 100% no-repeat;
+}
+@media (max-width: 760px) {
+  #head .hand-length-section {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "text" "image";
+  }
+  #head .hand-length-section .crown-figure {
+    justify-self: center;
+  }
+}
+
 /* Shared navigation hierarchy: primary chapters stay in the bar; subsections use the Selection menu pattern. */
 .section-dropdown .selection-dropdown-menu {
   left: 50%;
